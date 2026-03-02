@@ -1,0 +1,6326 @@
+[
+    {
+        "ID": 2002,
+        "nome": "ABAMIC 1% 500 ML",
+        "preco": 60.0,
+        "img": "img/2002.jpg"
+    },
+    {
+        "ID": 458,
+        "nome": "ACIENDEL PLUS POUR ON 1L",
+        "preco": 63.16,
+        "img": "img/458.jpg"
+    },
+    {
+        "ID": 949,
+        "nome": "ACURA FR 25 ML",
+        "preco": 54.0,
+        "img": "img/949.jpg"
+    },
+    {
+        "ID": 953,
+        "nome": "ACURA MAX FR 25 ML",
+        "preco": 64.0,
+        "img": "img/953.jpg"
+    },
+    {
+        "ID": 591,
+        "nome": "ADE INJ 100ML CALBOS",
+        "preco": 23.0,
+        "img": "img/591.jpg"
+    },
+    {
+        "ID": 605,
+        "nome": "ADE INJ 200ML CALBOS",
+        "preco": 37.0,
+        "img": "img/605.jpg"
+    },
+    {
+        "ID": 217,
+        "nome": "ADE INJ 50ML CALBOS",
+        "preco": 16.0,
+        "img": "img/217.jpg"
+    },
+    {
+        "ID": 810,
+        "nome": "ADE INJ 50ML ZOETIS",
+        "preco": 52.0,
+        "img": "img/810.jpg"
+    },
+    {
+        "ID": 592,
+        "nome": "ADE ORAL PO 1KG CALBOS",
+        "preco": 15.98,
+        "img": "img/592.jpg"
+    },
+    {
+        "ID": 895,
+        "nome": "AFASTE 480 GR",
+        "preco": 87.0,
+        "img": "img/895.jpg"
+    },
+    {
+        "ID": 2923,
+        "nome": "AG51 - PLANTADEIRA AUTOMATICA ALLAGRI",
+        "preco": 250.0,
+        "img": "img/2923.jpg"
+    },
+    {
+        "ID": 314,
+        "nome": "AGITA 10 WG 100 GR",
+        "preco": 142.59,
+        "img": "img/314.jpg"
+    },
+    {
+        "ID": 1465,
+        "nome": "AGITA 10 WG 250 GR",
+        "preco": 339.33,
+        "img": "img/1465.jpg"
+    },
+    {
+        "ID": 2896,
+        "nome": "AGROSIL 6.000.000 15ML",
+        "preco": 22.75,
+        "img": "img/2896.jpg"
+    },
+    {
+        "ID": 1040,
+        "nome": "AGROVET PLUS 50 ML",
+        "preco": 53.54,
+        "img": "img/1040.jpg"
+    },
+    {
+        "ID": 957,
+        "nome": "AGULHA DESCARTAVEL",
+        "preco": 0.5,
+        "img": "img/957.jpg"
+    },
+    {
+        "ID": 315,
+        "nome": "AGULHA VETERINARIA",
+        "preco": 3.0,
+        "img": "img/315.jpg"
+    },
+    {
+        "ID": 924,
+        "nome": "ALANTOL BISNAGA 250G",
+        "preco": 250.0,
+        "img": "img/924.jpg"
+    },
+    {
+        "ID": 689,
+        "nome": "ALANTOL BISNAGA 60G",
+        "preco": 86.0,
+        "img": "img/689.jpg"
+    },
+    {
+        "ID": 2571,
+        "nome": "ALCOOL ETILICO HIDR 70 1L",
+        "preco": 13.2,
+        "img": "img/2571.jpg"
+    },
+    {
+        "ID": 1432,
+        "nome": "ALICATE DE BRINCO",
+        "preco": 125.0,
+        "img": "img/1432.jpg"
+    },
+    {
+        "ID": 961,
+        "nome": "ALICATE DE FAZENDEIRO",
+        "preco": 102.0,
+        "img": "img/961.jpg"
+    },
+    {
+        "ID": 964,
+        "nome": "ALICATE EM ACO INOX PARA CORTAR DENTE DE SUINOS",
+        "preco": 77.0,
+        "img": "img/964.jpg"
+    },
+    {
+        "ID": 824,
+        "nome": "ALIV-V INJ 50 ML - AGENER",
+        "preco": 42.0,
+        "img": "img/824.jpg"
+    },
+    {
+        "ID": 804,
+        "nome": "ALLIUM SMIN 1KG",
+        "preco": 17.96,
+        "img": "img/804.jpg"
+    },
+    {
+        "ID": 1161,
+        "nome": "AMINOMIX FORTE 2,5 KG",
+        "preco": 235.0,
+        "img": "img/1161.jpg"
+    },
+    {
+        "ID": 2380,
+        "nome": "AMINOMIX FORTE 5 KG",
+        "preco": 379.95,
+        "img": "img/2380.jpg"
+    },
+    {
+        "ID": 225,
+        "nome": "AMITRAZ 20ML CALBOS",
+        "preco": 5.62,
+        "img": "img/225.jpg"
+    },
+    {
+        "ID": 1429,
+        "nome": "ANABOLIC INJETAVEL 200 ML",
+        "preco": 153.0,
+        "img": "img/1429.jpg"
+    },
+    {
+        "ID": 1138,
+        "nome": "ANABOLIC INJETAVEL 50 ML",
+        "preco": 72.0,
+        "img": "img/1138.jpg"
+    },
+    {
+        "ID": 148,
+        "nome": "ANABOLIC INJETAVEL 500 ML",
+        "preco": 294.64,
+        "img": "img/148.jpg"
+    },
+    {
+        "ID": 3127,
+        "nome": "ANCINHO 14 DENTES BELLOTTO",
+        "preco": 18.65,
+        "img": "img/3127.jpg"
+    },
+    {
+        "ID": 459,
+        "nome": "ANCINHO ACO 14DT TRAMONTINA",
+        "preco": 22.0,
+        "img": "img/459.jpg"
+    },
+    {
+        "ID": 1702,
+        "nome": "ANCINHO CURVO LEVE S/CABO",
+        "preco": 22.0,
+        "img": "img/1702.jpg"
+    },
+    {
+        "ID": 3108,
+        "nome": "ANEMOVIT 20 ML",
+        "preco": 24.98,
+        "img": "img/3108.jpg"
+    },
+    {
+        "ID": 83,
+        "nome": "ANESTT 50ML INJETAVEL",
+        "preco": 16.42,
+        "img": "img/83.jpg"
+    },
+    {
+        "ID": 228,
+        "nome": "ANTEC C/04 CP 600MG",
+        "preco": 7.45,
+        "img": "img/228.jpg"
+    },
+    {
+        "ID": 218,
+        "nome": "ANTIDIARREICO 10G STOP CALBOS",
+        "preco": 3.64,
+        "img": "img/218.jpg"
+    },
+    {
+        "ID": 950,
+        "nome": "ANTIDIARREICO 10G VALLEE",
+        "preco": 4.9,
+        "img": "img/950.jpg"
+    },
+    {
+        "ID": 219,
+        "nome": "ANTIMASTIT MASTICAL CALBOS 10ML",
+        "preco": 6.5,
+        "img": "img/219.jpg"
+    },
+    {
+        "ID": 1174,
+        "nome": "ANTITOXICO INJ 100ML BIOFARM",
+        "preco": 22.78,
+        "img": "img/1174.jpg"
+    },
+    {
+        "ID": 251,
+        "nome": "ANTITOXICO INJ 100ML SMARINA",
+        "preco": 23.32,
+        "img": "img/251.jpg"
+    },
+    {
+        "ID": 460,
+        "nome": "ANTITOXICO INJ 100ML UCB VET",
+        "preco": 23.66,
+        "img": "img/460.jpg"
+    },
+    {
+        "ID": 2925,
+        "nome": "AP02 - PULVERIZADOR MANUAL 2 LTS ALLAGRI",
+        "preco": 50.36,
+        "img": "img/2925.jpg"
+    },
+    {
+        "ID": 2926,
+        "nome": "AP05 - PULVERIZADOR MANUAL COM CAPACIDADE 5LITROS ALL",
+        "preco": 126.0,
+        "img": "img/2926.jpg"
+    },
+    {
+        "ID": 835,
+        "nome": "ARAME FARPADO 500M GIR / NELORE",
+        "preco": 344.69,
+        "img": "img/835.jpg"
+    },
+    {
+        "ID": 848,
+        "nome": "ARAME FARPADO 500M TOURO",
+        "preco": 361.25,
+        "img": "img/848.jpg"
+    },
+    {
+        "ID": 3195,
+        "nome": "ARAME ZINCADO 1,83MM 500M ELECTRO 15",
+        "preco": 294.0,
+        "img": "img/3195.jpg"
+    },
+    {
+        "ID": 734,
+        "nome": "ARAME ZINCADO BWG 18 1,24MM 1KG MORLAN",
+        "preco": 35.86,
+        "img": "img/734.jpg"
+    },
+    {
+        "ID": 1547,
+        "nome": "ARGOLA DE LACO",
+        "preco": 13.75,
+        "img": "img/1547.jpg"
+    },
+    {
+        "ID": 2723,
+        "nome": "ARGOLA N17",
+        "preco": 4.08,
+        "img": "img/2723.jpg"
+    },
+    {
+        "ID": 2715,
+        "nome": "ASPERSOR SV 100CM 8 JATOS",
+        "preco": 59.67,
+        "img": "img/2715.jpg"
+    },
+    {
+        "ID": 1148,
+        "nome": "ASPERSOR SV 50CM 6 JATOS",
+        "preco": 49.5,
+        "img": "img/1148.jpg"
+    },
+    {
+        "ID": 1152,
+        "nome": "ASPERSOR SV 600 50 CM",
+        "preco": 34.93,
+        "img": "img/1152.jpg"
+    },
+    {
+        "ID": 1155,
+        "nome": "ASPERSOR SV AGRO 3/4 PRETO",
+        "preco": 28.0,
+        "img": "img/1155.jpg"
+    },
+    {
+        "ID": 1153,
+        "nome": "ASPERSOR SV AGRO I PRETO",
+        "preco": 36.57,
+        "img": "img/1153.jpg"
+    },
+    {
+        "ID": 1149,
+        "nome": "ASPERSOR SV BAILARINO 25 CM",
+        "preco": 25.5,
+        "img": "img/1149.jpg"
+    },
+    {
+        "ID": 3186,
+        "nome": "ASPERSOR SV SETORIAL SIMPLES",
+        "preco": 39.88,
+        "img": "img/3186.jpg"
+    },
+    {
+        "ID": 316,
+        "nome": "ATRATEX-G MATA MOSCA GRA 25G",
+        "preco": 4.59,
+        "img": "img/316.jpg"
+    },
+    {
+        "ID": 3251,
+        "nome": "ATTACK PLUS GADO LIMPO 500GR",
+        "preco": 32.0,
+        "img": "img/3251.jpg"
+    },
+    {
+        "ID": 2659,
+        "nome": "ATTAMIX 400 TRHEE - 1000G",
+        "preco": 16.0,
+        "img": "img/2659.jpg"
+    },
+    {
+        "ID": 3198,
+        "nome": "AVEMIL SOLUVEL 100ML",
+        "preco": 29.95,
+        "img": "img/3198.jpg"
+    },
+    {
+        "ID": 124,
+        "nome": "AVEMIL SOLUVEL INDUBRAS 20ML",
+        "preco": 9.61,
+        "img": "img/124.jpg"
+    },
+    {
+        "ID": 1656,
+        "nome": "AVES CALOPSITA E AGAPORNIS 10KG",
+        "preco": 87.45,
+        "img": "img/1656.jpg"
+    },
+    {
+        "ID": 2257,
+        "nome": "AVES CALOPSITA E AGAPORNIS PREMIUM 10KG",
+        "preco": 100.17,
+        "img": "img/2257.jpg"
+    },
+    {
+        "ID": 1056,
+        "nome": "AVES GIRASSOL GRAUDO 300G",
+        "preco": 6.0,
+        "img": "img/1056.jpg"
+    },
+    {
+        "ID": 3070,
+        "nome": "AVES GIRASSOL GRAUDO 5KG",
+        "preco": 61.33,
+        "img": "img/3070.jpg"
+    },
+    {
+        "ID": 1055,
+        "nome": "AVES GIRASSOL MIUDO 500G",
+        "preco": 6.1,
+        "img": "img/1055.jpg"
+    },
+    {
+        "ID": 3071,
+        "nome": "AVES GIRASSOL MIUDO 5KG",
+        "preco": 52.0,
+        "img": "img/3071.jpg"
+    },
+    {
+        "ID": 1946,
+        "nome": "AVES PAINCO NACIONAL 10KG",
+        "preco": 98.0,
+        "img": "img/1946.jpg"
+    },
+    {
+        "ID": 1205,
+        "nome": "AVES PAINCO NACIONAL 500G",
+        "preco": 5.0,
+        "img": "img/1205.jpg"
+    },
+    {
+        "ID": 1773,
+        "nome": "AVES PAINCO NACIONAL 5KG",
+        "preco": 45.0,
+        "img": "img/1773.jpg"
+    },
+    {
+        "ID": 1655,
+        "nome": "AVES PERIQUITO 10KG",
+        "preco": 69.11,
+        "img": "img/1655.jpg"
+    },
+    {
+        "ID": 60,
+        "nome": "AVES VITAMINA AMARELA P/CANARIO 100G",
+        "preco": 3.0,
+        "img": "img/60.jpg"
+    },
+    {
+        "ID": 2454,
+        "nome": "AVES VITAMINA JILO P/CANARIO 100G",
+        "preco": 3.0,
+        "img": "img/2454.jpg"
+    },
+    {
+        "ID": 3048,
+        "nome": "AVIFARM PS 15 ML",
+        "preco": 9.37,
+        "img": "img/3048.jpg"
+    },
+    {
+        "ID": 3006,
+        "nome": "AVITRIN 15 ML COVELI",
+        "preco": 15.0,
+        "img": "img/3006.jpg"
+    },
+    {
+        "ID": 3009,
+        "nome": "AVITRIN CANTO 15ML COVELI",
+        "preco": 17.0,
+        "img": "img/3009.jpg"
+    },
+    {
+        "ID": 3010,
+        "nome": "AVITRIN E 15ML COVELI",
+        "preco": 21.0,
+        "img": "img/3010.jpg"
+    },
+    {
+        "ID": 3012,
+        "nome": "AVITRIN MUDA 15ML COVELI",
+        "preco": 15.5,
+        "img": "img/3012.jpg"
+    },
+    {
+        "ID": 3014,
+        "nome": "AVITRIN REPRODUCAO 15ML COVELI",
+        "preco": 20.0,
+        "img": "img/3014.jpg"
+    },
+    {
+        "ID": 3016,
+        "nome": "AVITRIN VERMIFUGO 10ML COVELI",
+        "preco": 16.85,
+        "img": "img/3016.jpg"
+    },
+    {
+        "ID": 444,
+        "nome": "AZIUM INJ 10ML MSD",
+        "preco": 23.3,
+        "img": "img/444.jpg"
+    },
+    {
+        "ID": 1752,
+        "nome": "BAINHA CELULAR",
+        "preco": 60.0,
+        "img": "img/1752.jpg"
+    },
+    {
+        "ID": 756,
+        "nome": "BAINHA FACAO 12P",
+        "preco": 40.0,
+        "img": "img/756.jpg"
+    },
+    {
+        "ID": 757,
+        "nome": "BAINHA FACAO 14P",
+        "preco": 43.0,
+        "img": "img/757.jpg"
+    },
+    {
+        "ID": 902,
+        "nome": "BAINHA FACAO 18P",
+        "preco": 50.63,
+        "img": "img/902.jpg"
+    },
+    {
+        "ID": 759,
+        "nome": "BAINHA FACAO 20P",
+        "preco": 54.0,
+        "img": "img/759.jpg"
+    },
+    {
+        "ID": 3129,
+        "nome": "BAINHA P/ FACAO 24 - COSTURA NO CORTE BELLOTTO",
+        "preco": 59.0,
+        "img": "img/3129.jpg"
+    },
+    {
+        "ID": 2948,
+        "nome": "BALANCA SUSPENSA 100KG ANALOG TIPO RELOG BARTOF",
+        "preco": 85.0,
+        "img": "img/2948.jpg"
+    },
+    {
+        "ID": 95,
+        "nome": "BARAKELL GEL 10GR",
+        "preco": 11.93,
+        "img": "img/95.jpg"
+    },
+    {
+        "ID": 286,
+        "nome": "BARRAGE 15% 1 LT",
+        "preco": 99.0,
+        "img": "img/286.jpg"
+    },
+    {
+        "ID": 285,
+        "nome": "BARRAGE 20 ML",
+        "preco": 5.11,
+        "img": "img/285.jpg"
+    },
+    {
+        "ID": 2992,
+        "nome": "BASTAO MARCADOR PARA ANIMAIS",
+        "preco": 14.79,
+        "img": "img/2992.jpg"
+    },
+    {
+        "ID": 463,
+        "nome": "BEBEDOURO AVES PENDULAR AUTOM SGAMAQ",
+        "preco": 36.0,
+        "img": "img/463.jpg"
+    },
+    {
+        "ID": 574,
+        "nome": "BEBEDOURO BOVINO AUTOM C/ BOIA ALVORADA",
+        "preco": 76.0,
+        "img": "img/574.jpg"
+    },
+    {
+        "ID": 173,
+        "nome": "BEBEDOURO CHUPETA SUINO INOX",
+        "preco": 17.07,
+        "img": "img/173.jpg"
+    },
+    {
+        "ID": 169,
+        "nome": "BEBEDOURO P/ FRANGO 2,0L",
+        "preco": 11.8,
+        "img": "img/169.jpg"
+    },
+    {
+        "ID": 170,
+        "nome": "BEBEDOURO P/ FRANGO 5,0L",
+        "preco": 18.1,
+        "img": "img/170.jpg"
+    },
+    {
+        "ID": 3188,
+        "nome": "BENZOCREOL 1000 ML",
+        "preco": 43.0,
+        "img": "img/3188.jpg"
+    },
+    {
+        "ID": 1374,
+        "nome": "BENZOCREOL 500ML",
+        "preco": 31.6,
+        "img": "img/1374.jpg"
+    },
+    {
+        "ID": 3220,
+        "nome": "BICARBONATO DE SODIO COM CALCIO 1000GR",
+        "preco": 8.63,
+        "img": "img/3220.jpg"
+    },
+    {
+        "ID": 1351,
+        "nome": "BICO DE MAMADEIRA P/ BEZERRO FAZFORT",
+        "preco": 6.0,
+        "img": "img/1351.jpg"
+    },
+    {
+        "ID": 979,
+        "nome": "BICO LUER LOCK SERVI 50 ML AUT",
+        "preco": 22.0,
+        "img": "img/979.jpg"
+    },
+    {
+        "ID": 125,
+        "nome": "BIODEX COMPRIMIDO FARMAVET",
+        "preco": 14.7,
+        "img": "img/125.jpg"
+    },
+    {
+        "ID": 1215,
+        "nome": "BIODEX INJETAVEL 10 ML",
+        "preco": 9.0,
+        "img": "img/1215.jpg"
+    },
+    {
+        "ID": 1224,
+        "nome": "BIODEX INJETAVEL 50 ML",
+        "preco": 26.62,
+        "img": "img/1224.jpg"
+    },
+    {
+        "ID": 272,
+        "nome": "BIOFOR IODO 2,6% 1L CHEMITEC",
+        "preco": 71.0,
+        "img": "img/272.jpg"
+    },
+    {
+        "ID": 690,
+        "nome": "BIONEW 100ML",
+        "preco": 189.5,
+        "img": "img/690.jpg"
+    },
+    {
+        "ID": 839,
+        "nome": "BIONEW 20ML",
+        "preco": 78.0,
+        "img": "img/839.jpg"
+    },
+    {
+        "ID": 1216,
+        "nome": "BIOTRIL COMPRIMIDO",
+        "preco": 10.5,
+        "img": "img/1216.jpg"
+    },
+    {
+        "ID": 2340,
+        "nome": "BISTEDOG ADULTOS 10.1KG",
+        "preco": 53.92,
+        "img": "img/2340.jpg"
+    },
+    {
+        "ID": 30,
+        "nome": "BISTEDOG ADULTOS 14KG",
+        "preco": 74.82,
+        "img": "img/30.jpg"
+    },
+    {
+        "ID": 31,
+        "nome": "BISTEDOG ADULTOS 23KG",
+        "preco": 120.0,
+        "img": "img/31.jpg"
+    },
+    {
+        "ID": 746,
+        "nome": "BISTEDOG FILHOTES 15KG",
+        "preco": 103.17,
+        "img": "img/746.jpg"
+    },
+    {
+        "ID": 2341,
+        "nome": "BISTEDOG FILHOTES 23KG",
+        "preco": 150.0,
+        "img": "img/2341.jpg"
+    },
+    {
+        "ID": 1052,
+        "nome": "BOCIODO INJ 100ML",
+        "preco": 56.5,
+        "img": "img/1052.jpg"
+    },
+    {
+        "ID": 1398,
+        "nome": "BOLFO 1 KG",
+        "preco": 88.0,
+        "img": "img/1398.jpg"
+    },
+    {
+        "ID": 317,
+        "nome": "BOLFO 200 G",
+        "preco": 17.68,
+        "img": "img/317.jpg"
+    },
+    {
+        "ID": 2729,
+        "nome": "BOLOTA 15 KG",
+        "preco": 75.0,
+        "img": "img/2729.jpg"
+    },
+    {
+        "ID": 2728,
+        "nome": "BOLOTA 25 KG",
+        "preco": 125.0,
+        "img": "img/2728.jpg"
+    },
+    {
+        "ID": 1598,
+        "nome": "BOMGUY FILHOTE FRANGO S/COR 15KG",
+        "preco": 120.0,
+        "img": "img/1598.jpg"
+    },
+    {
+        "ID": 1335,
+        "nome": "BOMGUY PREMIUM ADULTO NATURAL CARNE E FRANGO 15KG",
+        "preco": 105.0,
+        "img": "img/1335.jpg"
+    },
+    {
+        "ID": 1336,
+        "nome": "BOMGUY PREMIUM ADULTO NATURAL CARNE E FRANGO 25KG",
+        "preco": 164.12,
+        "img": "img/1336.jpg"
+    },
+    {
+        "ID": 1721,
+        "nome": "BOMGUY PREMIUM ADULTO RACAS PEQ. FRANGO S/COR 15KG",
+        "preco": 123.5,
+        "img": "img/1721.jpg"
+    },
+    {
+        "ID": 2480,
+        "nome": "BOMGUY PREMIUM ADULTO RACAS PEQ. FRANGO S/COR 25KG",
+        "preco": 194.0,
+        "img": "img/2480.jpg"
+    },
+    {
+        "ID": 615,
+        "nome": "BORGAL INJ 10ML",
+        "preco": 32.0,
+        "img": "img/615.jpg"
+    },
+    {
+        "ID": 575,
+        "nome": "BORGAL INJ 50ML MSD",
+        "preco": 77.0,
+        "img": "img/575.jpg"
+    },
+    {
+        "ID": 515,
+        "nome": "BOTA BICO FINO VAQUEIJADA PRETA N41",
+        "preco": 85.0,
+        "img": "img/515.jpg"
+    },
+    {
+        "ID": 729,
+        "nome": "BOTA BRANCA MEDIA 42",
+        "preco": 50.0,
+        "img": "img/729.jpg"
+    },
+    {
+        "ID": 1727,
+        "nome": "BOTA BRANCA MEDIA 43",
+        "preco": 56.0,
+        "img": "img/1727.jpg"
+    },
+    {
+        "ID": 1462,
+        "nome": "BOTA BRANCA MEDIA 44",
+        "preco": 50.0,
+        "img": "img/1462.jpg"
+    },
+    {
+        "ID": 2472,
+        "nome": "BOTA PVC CANO LONGO AZ/AMA SF N43",
+        "preco": 86.96,
+        "img": "img/2472.jpg"
+    },
+    {
+        "ID": 1074,
+        "nome": "BOTA URBANA CAFE N40 307",
+        "preco": 260.0,
+        "img": "img/1074.jpg"
+    },
+    {
+        "ID": 2053,
+        "nome": "BOTA URBANA CASTANHO N35 060",
+        "preco": 159.0,
+        "img": "img/2053.jpg"
+    },
+    {
+        "ID": 1086,
+        "nome": "BOTA URBANA CASTANHO N38 060",
+        "preco": 160.0,
+        "img": "img/1086.jpg"
+    },
+    {
+        "ID": 1087,
+        "nome": "BOTA URBANA CASTANHO N39 060",
+        "preco": 160.0,
+        "img": "img/1087.jpg"
+    },
+    {
+        "ID": 1089,
+        "nome": "BOTA URBANA CASTANHO N41 060",
+        "preco": 145.0,
+        "img": "img/1089.jpg"
+    },
+    {
+        "ID": 1587,
+        "nome": "BOTA URBANA CASTANHO N42 020",
+        "preco": 160.0,
+        "img": "img/1587.jpg"
+    },
+    {
+        "ID": 1090,
+        "nome": "BOTA URBANA CASTANHO N42 060",
+        "preco": 150.0,
+        "img": "img/1090.jpg"
+    },
+    {
+        "ID": 1588,
+        "nome": "BOTA URBANA CASTANHO N43 020",
+        "preco": 160.0,
+        "img": "img/1588.jpg"
+    },
+    {
+        "ID": 1091,
+        "nome": "BOTA URBANA CASTANHO N43 060",
+        "preco": 150.0,
+        "img": "img/1091.jpg"
+    },
+    {
+        "ID": 1106,
+        "nome": "BOTA URBANA CASTOR N41 020",
+        "preco": 160.0,
+        "img": "img/1106.jpg"
+    },
+    {
+        "ID": 1111,
+        "nome": "BOTA URBANA CASTOR N41 041",
+        "preco": 280.0,
+        "img": "img/1111.jpg"
+    },
+    {
+        "ID": 1108,
+        "nome": "BOTA URBANA CASTOR N43 020",
+        "preco": 160.0,
+        "img": "img/1108.jpg"
+    },
+    {
+        "ID": 2064,
+        "nome": "BOTA URBANA FEMININA CASTANHO N38 700",
+        "preco": 185.0,
+        "img": "img/2064.jpg"
+    },
+    {
+        "ID": 2050,
+        "nome": "BOTA URBANA PRETA N36 060",
+        "preco": 160.0,
+        "img": "img/2050.jpg"
+    },
+    {
+        "ID": 1099,
+        "nome": "BOTA URBANA PRETA N39 305",
+        "preco": 278.0,
+        "img": "img/1099.jpg"
+    },
+    {
+        "ID": 2126,
+        "nome": "BOTA URBANA PRETA N39 307",
+        "preco": 275.0,
+        "img": "img/2126.jpg"
+    },
+    {
+        "ID": 1084,
+        "nome": "BOTA URBANA PRETA N43 060",
+        "preco": 160.0,
+        "img": "img/1084.jpg"
+    },
+    {
+        "ID": 2148,
+        "nome": "BOTA VULCABRAS C MED S/F 36 PTA/AML",
+        "preco": 45.0,
+        "img": "img/2148.jpg"
+    },
+    {
+        "ID": 611,
+        "nome": "BOTA VULCABRAS C MED S/F 38 PTA/AML",
+        "preco": 45.0,
+        "img": "img/611.jpg"
+    },
+    {
+        "ID": 468,
+        "nome": "BOTA VULCABRAS C MED S/F 39 PTA/AML",
+        "preco": 46.0,
+        "img": "img/468.jpg"
+    },
+    {
+        "ID": 469,
+        "nome": "BOTA VULCABRAS C MED S/F 40 PTA/AML",
+        "preco": 45.75,
+        "img": "img/469.jpg"
+    },
+    {
+        "ID": 724,
+        "nome": "BOTA VULCABRAS C MED S/F 41 PTA/AML",
+        "preco": 45.93,
+        "img": "img/724.jpg"
+    },
+    {
+        "ID": 470,
+        "nome": "BOTA VULCABRAS C MED S/F 42 PTA/AML",
+        "preco": 45.39,
+        "img": "img/470.jpg"
+    },
+    {
+        "ID": 471,
+        "nome": "BOTA VULCABRAS C MED S/F 43 PTA/AML",
+        "preco": 46.0,
+        "img": "img/471.jpg"
+    },
+    {
+        "ID": 849,
+        "nome": "BOTA VULCABRAS C MED S/F 44 PTA/AML",
+        "preco": 46.0,
+        "img": "img/849.jpg"
+    },
+    {
+        "ID": 725,
+        "nome": "BOTA VULCABRAS C MED S/F 45/46 PTA/AML",
+        "preco": 45.0,
+        "img": "img/725.jpg"
+    },
+    {
+        "ID": 978,
+        "nome": "BOTAO EMPURRADOR SERVI 50 ML AUT",
+        "preco": 13.0,
+        "img": "img/978.jpg"
+    },
+    {
+        "ID": 3000,
+        "nome": "BOTUMIX ELETRORACE 50G BOTUPHARMA",
+        "preco": 35.0,
+        "img": "img/3000.jpg"
+    },
+    {
+        "ID": 2995,
+        "nome": "BOTUMIX RED UP 1,5L BOTUPHARMA",
+        "preco": 328.0,
+        "img": "img/2995.jpg"
+    },
+    {
+        "ID": 2268,
+        "nome": "BOVICALCIO 500ML",
+        "preco": 53.5,
+        "img": "img/2268.jpg"
+    },
+    {
+        "ID": 526,
+        "nome": "BOVIGOLD 25KG",
+        "preco": 177.89,
+        "img": "img/526.jpg"
+    },
+    {
+        "ID": 525,
+        "nome": "BOVIGOLD CRINA 25KG",
+        "preco": 240.0,
+        "img": "img/525.jpg"
+    },
+    {
+        "ID": 1450,
+        "nome": "BOVIGOLD PASTO 25KG",
+        "preco": 180.0,
+        "img": "img/1450.jpg"
+    },
+    {
+        "ID": 838,
+        "nome": "BOVIGOLD PLUS 25KG",
+        "preco": 192.67,
+        "img": "img/838.jpg"
+    },
+    {
+        "ID": 527,
+        "nome": "BOVIGOLD PRE PARTO OVN 25KG",
+        "preco": 489.25,
+        "img": "img/527.jpg"
+    },
+    {
+        "ID": 2886,
+        "nome": "BR4CATS CASTRADOS ARROZ E FRANGO 10,1KG BRAZILIAN",
+        "preco": 126.0,
+        "img": "img/2886.jpg"
+    },
+    {
+        "ID": 2763,
+        "nome": "BRACHIARIA BRIZANTHA XARAES INTEGRA 10KG FACHOLI CAPI",
+        "preco": 210.0,
+        "img": "img/2763.jpg"
+    },
+    {
+        "ID": 777,
+        "nome": "BRAVECTO 250MG 4,5 A 10 KG",
+        "preco": 117.99,
+        "img": "img/777.jpg"
+    },
+    {
+        "ID": 427,
+        "nome": "BRIDIA OU BREQUE",
+        "preco": 120.0,
+        "img": "img/427.jpg"
+    },
+    {
+        "ID": 832,
+        "nome": "BRINCO MOSQ NEOCIDOL B40",
+        "preco": 5.1,
+        "img": "img/832.jpg"
+    },
+    {
+        "ID": 629,
+        "nome": "BRODDY 15 KG",
+        "preco": 75.0,
+        "img": "img/629.jpg"
+    },
+    {
+        "ID": 825,
+        "nome": "BUSCOFIN INJ 50 ML - AGENER",
+        "preco": 70.0,
+        "img": "img/825.jpg"
+    },
+    {
+        "ID": 1807,
+        "nome": "CABECADA CORDINHA",
+        "preco": 105.0,
+        "img": "img/1807.jpg"
+    },
+    {
+        "ID": 391,
+        "nome": "CABECADA QUARTO DE MILHA TOP",
+        "preco": 155.0,
+        "img": "img/391.jpg"
+    },
+    {
+        "ID": 421,
+        "nome": "CABECADA VAQUEJADA/QUARTO MILHA",
+        "preco": 105.0,
+        "img": "img/421.jpg"
+    },
+    {
+        "ID": 185,
+        "nome": "CABO DE ENXADA 1,50 MTS MINASUL",
+        "preco": 20.0,
+        "img": "img/185.jpg"
+    },
+    {
+        "ID": 850,
+        "nome": "CABO DE FOICE 1,20 MTS MINASUL",
+        "preco": 19.63,
+        "img": "img/850.jpg"
+    },
+    {
+        "ID": 186,
+        "nome": "CABO DE PICARETA 95 CM MINASUL",
+        "preco": 22.25,
+        "img": "img/186.jpg"
+    },
+    {
+        "ID": 852,
+        "nome": "CABRESTO CORDA CHATA",
+        "preco": 35.49,
+        "img": "img/852.jpg"
+    },
+    {
+        "ID": 569,
+        "nome": "CABRESTO EM ACO",
+        "preco": 75.0,
+        "img": "img/569.jpg"
+    },
+    {
+        "ID": 404,
+        "nome": "CABRESTO SIMPLES",
+        "preco": 19.16,
+        "img": "img/404.jpg"
+    },
+    {
+        "ID": 1550,
+        "nome": "CADEADO LT-20MM",
+        "preco": 18.0,
+        "img": "img/1550.jpg"
+    },
+    {
+        "ID": 1551,
+        "nome": "CADEADO LT-25MM",
+        "preco": 20.01,
+        "img": "img/1551.jpg"
+    },
+    {
+        "ID": 1552,
+        "nome": "CADEADO LT-30MM",
+        "preco": 24.0,
+        "img": "img/1552.jpg"
+    },
+    {
+        "ID": 1553,
+        "nome": "CADEADO LT-35MM",
+        "preco": 31.6,
+        "img": "img/1553.jpg"
+    },
+    {
+        "ID": 1554,
+        "nome": "CADEADO LT-40MM",
+        "preco": 36.33,
+        "img": "img/1554.jpg"
+    },
+    {
+        "ID": 1558,
+        "nome": "CADEADO SM LT-35/75MM HL",
+        "preco": 50.0,
+        "img": "img/1558.jpg"
+    },
+    {
+        "ID": 1221,
+        "nome": "CAFEINA 25% 10 ML",
+        "preco": 9.0,
+        "img": "img/1221.jpg"
+    },
+    {
+        "ID": 2815,
+        "nome": "CAIXA DE ISOPOR 1KG",
+        "preco": 9.0,
+        "img": "img/2815.jpg"
+    },
+    {
+        "ID": 2818,
+        "nome": "CAIXA DE ISOPOR 8 LTS",
+        "preco": 29.0,
+        "img": "img/2818.jpg"
+    },
+    {
+        "ID": 2188,
+        "nome": "CALBENDAZOLE 10 200 ML",
+        "preco": 18.0,
+        "img": "img/2188.jpg"
+    },
+    {
+        "ID": 214,
+        "nome": "CALCARIO AGRICOLA 25KG",
+        "preco": 11.02,
+        "img": "img/214.jpg"
+    },
+    {
+        "ID": 215,
+        "nome": "CALCARIO CALCITICO FINO 25KG",
+        "preco": 10.98,
+        "img": "img/215.jpg"
+    },
+    {
+        "ID": 1185,
+        "nome": "CALCARIO CALCITICO GRANULADO 50KG",
+        "preco": 20.49,
+        "img": "img/1185.jpg"
+    },
+    {
+        "ID": 2535,
+        "nome": "CALCIOFARM 200 ML",
+        "preco": 12.88,
+        "img": "img/2535.jpg"
+    },
+    {
+        "ID": 2536,
+        "nome": "CALCIOFARM 500 ML",
+        "preco": 30.0,
+        "img": "img/2536.jpg"
+    },
+    {
+        "ID": 1515,
+        "nome": "CALCION 500 ML - DISPEC",
+        "preco": 27.0,
+        "img": "img/1515.jpg"
+    },
+    {
+        "ID": 2955,
+        "nome": "CALFOMAG 500 ML",
+        "preco": 27.83,
+        "img": "img/2955.jpg"
+    },
+    {
+        "ID": 220,
+        "nome": "CALFOZ 200ML INJ",
+        "preco": 15.25,
+        "img": "img/220.jpg"
+    },
+    {
+        "ID": 221,
+        "nome": "CALFOZ 500ML INJ",
+        "preco": 32.0,
+        "img": "img/221.jpg"
+    },
+    {
+        "ID": 474,
+        "nome": "CALMINEX 100G MSD",
+        "preco": 43.5,
+        "img": "img/474.jpg"
+    },
+    {
+        "ID": 473,
+        "nome": "CALMINEX 30G MSD",
+        "preco": 19.79,
+        "img": "img/473.jpg"
+    },
+    {
+        "ID": 577,
+        "nome": "CAMARA AR P/ CARRINHO 3,25X8 LEVORIN",
+        "preco": 27.0,
+        "img": "img/577.jpg"
+    },
+    {
+        "ID": 319,
+        "nome": "CANEX COMPOSTO",
+        "preco": 9.9,
+        "img": "img/319.jpg"
+    },
+    {
+        "ID": 320,
+        "nome": "CANEX ORIGINAL",
+        "preco": 6.0,
+        "img": "img/320.jpg"
+    },
+    {
+        "ID": 3057,
+        "nome": "CANISTER CAT CASTRADO FRANGO COM ESPINAFRE 10,1KG BRA",
+        "preco": 110.0,
+        "img": "img/3057.jpg"
+    },
+    {
+        "ID": 3056,
+        "nome": "CANISTER CAT PEIXE COM VEGETAIS 10,1KG BRAZILIAN",
+        "preco": 75.59,
+        "img": "img/3056.jpg"
+    },
+    {
+        "ID": 3054,
+        "nome": "CANISTER CAT PEIXE COM VEGETAIS 25KG BRAZILIAN",
+        "preco": 165.0,
+        "img": "img/3054.jpg"
+    },
+    {
+        "ID": 2887,
+        "nome": "CANISTER DOG FILHOTE CARNE, LEITE E CEREAIS 25KG BRAZ",
+        "preco": 194.64,
+        "img": "img/2887.jpg"
+    },
+    {
+        "ID": 2988,
+        "nome": "CANIVETE INOX 3 CABO MADEIRA TRAMONTINA",
+        "preco": 66.0,
+        "img": "img/2988.jpg"
+    },
+    {
+        "ID": 1054,
+        "nome": "CANTO NATURAL ALPISTE 500G",
+        "preco": 7.96,
+        "img": "img/1054.jpg"
+    },
+    {
+        "ID": 1766,
+        "nome": "CANTO NATURAL AVES PEQUENO PORTE 500G",
+        "preco": 7.0,
+        "img": "img/1766.jpg"
+    },
+    {
+        "ID": 1720,
+        "nome": "CANTO NATURAL BURGUESA 500G",
+        "preco": 3.95,
+        "img": "img/1720.jpg"
+    },
+    {
+        "ID": 1609,
+        "nome": "CANTO NATURAL CALOPSITA 500G",
+        "preco": 6.98,
+        "img": "img/1609.jpg"
+    },
+    {
+        "ID": 1768,
+        "nome": "CANTO NATURAL CANARIO BELGA 500G",
+        "preco": 6.99,
+        "img": "img/1768.jpg"
+    },
+    {
+        "ID": 1769,
+        "nome": "CANTO NATURAL CURIO E BICUDO 500G",
+        "preco": 8.0,
+        "img": "img/1769.jpg"
+    },
+    {
+        "ID": 1767,
+        "nome": "CANTO NATURAL GALO CAMPINA E AZULAO 500G",
+        "preco": 6.98,
+        "img": "img/1767.jpg"
+    },
+    {
+        "ID": 2502,
+        "nome": "CANTO NATURAL PAINCO MILHETO 500G",
+        "preco": 15.0,
+        "img": "img/2502.jpg"
+    },
+    {
+        "ID": 2586,
+        "nome": "CANTO NATURAL PAPAGAIO 10KG",
+        "preco": 108.0,
+        "img": "img/2586.jpg"
+    },
+    {
+        "ID": 1770,
+        "nome": "CANTO NATURAL PAPAGAIO 500G",
+        "preco": 7.05,
+        "img": "img/1770.jpg"
+    },
+    {
+        "ID": 1836,
+        "nome": "CANTO NATURAL PASSARO PRETO E SABIA BANANA 500G",
+        "preco": 5.0,
+        "img": "img/1836.jpg"
+    },
+    {
+        "ID": 1608,
+        "nome": "CANTO NATURAL PERIQUITO 500G",
+        "preco": 5.98,
+        "img": "img/1608.jpg"
+    },
+    {
+        "ID": 1837,
+        "nome": "CANTO NATURAL TRINCA FERRO PRIME 500G",
+        "preco": 7.78,
+        "img": "img/1837.jpg"
+    },
+    {
+        "ID": 58,
+        "nome": "CANTO NATURAL TRITURADA C/ DENDE 500G",
+        "preco": 5.0,
+        "img": "img/58.jpg"
+    },
+    {
+        "ID": 1838,
+        "nome": "CANTO NATURAL TRITURADA DE DENDE C/ FECULA 500G",
+        "preco": 5.0,
+        "img": "img/1838.jpg"
+    },
+    {
+        "ID": 1835,
+        "nome": "CANTO NATURAL TRITURADA FINA ESPECIAL 500G",
+        "preco": 5.0,
+        "img": "img/1835.jpg"
+    },
+    {
+        "ID": 2296,
+        "nome": "CANTONINHO - CANARIO 500G",
+        "preco": 8.0,
+        "img": "img/2296.jpg"
+    },
+    {
+        "ID": 791,
+        "nome": "CANTRIMOL PEN 30ML",
+        "preco": 40.17,
+        "img": "img/791.jpg"
+    },
+    {
+        "ID": 3039,
+        "nome": "CARBOVET 20 COMPR. FARMAVET",
+        "preco": 11.0,
+        "img": "img/3039.jpg"
+    },
+    {
+        "ID": 2189,
+        "nome": "CARIJO 1 KG",
+        "preco": 15.43,
+        "img": "img/2189.jpg"
+    },
+    {
+        "ID": 908,
+        "nome": "CAROCO DE ALGODAO 30KG",
+        "preco": 78.59,
+        "img": "img/908.jpg"
+    },
+    {
+        "ID": 1542,
+        "nome": "CARRAPATOX 20 ML",
+        "preco": 5.0,
+        "img": "img/1542.jpg"
+    },
+    {
+        "ID": 180,
+        "nome": "CARRO DE MAO 60 LT LARANJA METALOSA",
+        "preco": 199.0,
+        "img": "img/180.jpg"
+    },
+    {
+        "ID": 19,
+        "nome": "CARRO DE MAO MEIA LUA GRANDE",
+        "preco": 675.0,
+        "img": "img/19.jpg"
+    },
+    {
+        "ID": 3187,
+        "nome": "CARRO DE MAO METALFORTE M16 AZUL P3.5",
+        "preco": 375.0,
+        "img": "img/3187.jpg"
+    },
+    {
+        "ID": 1356,
+        "nome": "CARRO DE MAO PNEU C/CAM EXTRAFORT TRAMON",
+        "preco": 335.0,
+        "img": "img/1356.jpg"
+    },
+    {
+        "ID": 381,
+        "nome": "CASCO E PELO 500 GR",
+        "preco": 130.0,
+        "img": "img/381.jpg"
+    },
+    {
+        "ID": 862,
+        "nome": "CASCOMAX 500 G",
+        "preco": 48.67,
+        "img": "img/862.jpg"
+    },
+    {
+        "ID": 3276,
+        "nome": "CATOFOS B12 100ML",
+        "preco": 98.0,
+        "img": "img/3276.jpg"
+    },
+    {
+        "ID": 139,
+        "nome": "CATOL+ 100 ML",
+        "preco": 118.0,
+        "img": "img/139.jpg"
+    },
+    {
+        "ID": 138,
+        "nome": "CATOL+ 20 ML",
+        "preco": 22.0,
+        "img": "img/138.jpg"
+    },
+    {
+        "ID": 1177,
+        "nome": "CATOSAL B12 100ML",
+        "preco": 131.47,
+        "img": "img/1177.jpg"
+    },
+    {
+        "ID": 779,
+        "nome": "CATOSAL B12 20 ML",
+        "preco": 37.91,
+        "img": "img/779.jpg"
+    },
+    {
+        "ID": 2834,
+        "nome": "CATRACA COM ISOLADOR MAXION MEDIO PRETO",
+        "preco": 18.0,
+        "img": "img/2834.jpg"
+    },
+    {
+        "ID": 1045,
+        "nome": "CAVADEIRA ART FORJADA - CABO 1,20 POLIDO BELLOTTO",
+        "preco": 282.5,
+        "img": "img/1045.jpg"
+    },
+    {
+        "ID": 3132,
+        "nome": "CAVADEIRA ART FORJADA - TUBO 1,20  BELLOTTO",
+        "preco": 234.48,
+        "img": "img/3132.jpg"
+    },
+    {
+        "ID": 1426,
+        "nome": "CAVADEIRA ARTIC 120CM CB MADEIRA TRAMONTINA",
+        "preco": 94.04,
+        "img": "img/1426.jpg"
+    },
+    {
+        "ID": 2851,
+        "nome": "CAVADEIRA ARTIC 120CM CB METAL TRAMONTINA",
+        "preco": 99.0,
+        "img": "img/2851.jpg"
+    },
+    {
+        "ID": 2852,
+        "nome": "CAVADEIRA ARTIC 180CM CB MADEIRA TRAMONTINA",
+        "preco": 145.0,
+        "img": "img/2852.jpg"
+    },
+    {
+        "ID": 47,
+        "nome": "CEDAN CAT MIX 25KG",
+        "preco": 165.0,
+        "img": "img/47.jpg"
+    },
+    {
+        "ID": 2342,
+        "nome": "CEDAN CAT MIX S/CORANTE 10.1KG",
+        "preco": 71.08,
+        "img": "img/2342.jpg"
+    },
+    {
+        "ID": 2156,
+        "nome": "CEDAN CAT MIX S/CORANTE 25KG",
+        "preco": 165.0,
+        "img": "img/2156.jpg"
+    },
+    {
+        "ID": 1706,
+        "nome": "CEDAN DOG FILHOTES PREMIUM 15KG",
+        "preco": 105.67,
+        "img": "img/1706.jpg"
+    },
+    {
+        "ID": 1186,
+        "nome": "CESTO PRA FENO G",
+        "preco": 40.0,
+        "img": "img/1186.jpg"
+    },
+    {
+        "ID": 568,
+        "nome": "CESTO PRA FENO M",
+        "preco": 27.38,
+        "img": "img/568.jpg"
+    },
+    {
+        "ID": 2277,
+        "nome": "CHAMP SACHE",
+        "preco": 2.81,
+        "img": "img/2277.jpg"
+    },
+    {
+        "ID": 1600,
+        "nome": "CHANIN CASTRADO 10.1KG",
+        "preco": 98.0,
+        "img": "img/1600.jpg"
+    },
+    {
+        "ID": 1467,
+        "nome": "CHANIN CASTRADO 25KG",
+        "preco": 230.67,
+        "img": "img/1467.jpg"
+    },
+    {
+        "ID": 1468,
+        "nome": "CHANIN FILHOTES 25KG",
+        "preco": 232.0,
+        "img": "img/1468.jpg"
+    },
+    {
+        "ID": 1340,
+        "nome": "CHANIN MIX 10.1KG",
+        "preco": 82.6,
+        "img": "img/1340.jpg"
+    },
+    {
+        "ID": 1418,
+        "nome": "CHANIN MIX 25KG",
+        "preco": 183.33,
+        "img": "img/1418.jpg"
+    },
+    {
+        "ID": 1780,
+        "nome": "CHANIN MIX S/COR 10.1KG",
+        "preco": 82.11,
+        "img": "img/1780.jpg"
+    },
+    {
+        "ID": 1781,
+        "nome": "CHANIN MIX S/COR 25KG",
+        "preco": 183.25,
+        "img": "img/1781.jpg"
+    },
+    {
+        "ID": 1341,
+        "nome": "CHANIN PEIXE 10.1KG",
+        "preco": 83.23,
+        "img": "img/1341.jpg"
+    },
+    {
+        "ID": 1342,
+        "nome": "CHANIN PEIXE 25KG",
+        "preco": 184.0,
+        "img": "img/1342.jpg"
+    },
+    {
+        "ID": 2428,
+        "nome": "CHAPEU DE PALHA",
+        "preco": 32.67,
+        "img": "img/2428.jpg"
+    },
+    {
+        "ID": 2264,
+        "nome": "CHAVEIRO DE INOX G",
+        "preco": 38.89,
+        "img": "img/2264.jpg"
+    },
+    {
+        "ID": 2263,
+        "nome": "CHAVEIRO DE INOX P",
+        "preco": 33.91,
+        "img": "img/2263.jpg"
+    },
+    {
+        "ID": 1043,
+        "nome": "CHEMIFLOR INJ 100ML",
+        "preco": 106.07,
+        "img": "img/1043.jpg"
+    },
+    {
+        "ID": 291,
+        "nome": "CHEMIFLOR INJ 30ML",
+        "preco": 42.0,
+        "img": "img/291.jpg"
+    },
+    {
+        "ID": 1995,
+        "nome": "CHEMITRIL 10% 10 MLINJETAVEL",
+        "preco": 14.89,
+        "img": "img/1995.jpg"
+    },
+    {
+        "ID": 2436,
+        "nome": "CHEMITRIL ORAL 10% 100ML",
+        "preco": 34.0,
+        "img": "img/2436.jpg"
+    },
+    {
+        "ID": 420,
+        "nome": "CHICOTE DE LINHA",
+        "preco": 22.0,
+        "img": "img/420.jpg"
+    },
+    {
+        "ID": 2343,
+        "nome": "CHOCALHO",
+        "preco": 21.67,
+        "img": "img/2343.jpg"
+    },
+    {
+        "ID": 3164,
+        "nome": "CIDENTAL 250ML",
+        "preco": 22.0,
+        "img": "img/3164.jpg"
+    },
+    {
+        "ID": 2788,
+        "nome": "CIKADOL 50GR",
+        "preco": 29.45,
+        "img": "img/2788.jpg"
+    },
+    {
+        "ID": 415,
+        "nome": "CILHA DE CORDA",
+        "preco": 65.0,
+        "img": "img/415.jpg"
+    },
+    {
+        "ID": 416,
+        "nome": "CILHA DE LA",
+        "preco": 60.0,
+        "img": "img/416.jpg"
+    },
+    {
+        "ID": 1749,
+        "nome": "CINTO COURO/SPORT FINO",
+        "preco": 66.44,
+        "img": "img/1749.jpg"
+    },
+    {
+        "ID": 3281,
+        "nome": "CIOTON 20ML",
+        "preco": 48.0,
+        "img": "img/3281.jpg"
+    },
+    {
+        "ID": 2782,
+        "nome": "CIPER DUO 1L",
+        "preco": 32.0,
+        "img": "img/2782.jpg"
+    },
+    {
+        "ID": 2656,
+        "nome": "CIPERFON 100 ML",
+        "preco": 12.0,
+        "img": "img/2656.jpg"
+    },
+    {
+        "ID": 593,
+        "nome": "CIPERMETRINA POUR ON 1LT",
+        "preco": 32.01,
+        "img": "img/593.jpg"
+    },
+    {
+        "ID": 1873,
+        "nome": "CLORADOR FLUTUADOR HIDRASUL",
+        "preco": 40.0,
+        "img": "img/1873.jpg"
+    },
+    {
+        "ID": 1823,
+        "nome": "CLOREXIDINA - CETRIMIDA 1LT CHEMITEC",
+        "preco": 32.0,
+        "img": "img/1823.jpg"
+    },
+    {
+        "ID": 1875,
+        "nome": "CLORO PISCINA MULTIACAO 10KG 3X1",
+        "preco": 274.5,
+        "img": "img/1875.jpg"
+    },
+    {
+        "ID": 2861,
+        "nome": "CMR VET POMADA CICATRIZANTE 190 G",
+        "preco": 65.0,
+        "img": "img/2861.jpg"
+    },
+    {
+        "ID": 1277,
+        "nome": "COALHO LIQ HA-LA 200ML",
+        "preco": 10.9,
+        "img": "img/1277.jpg"
+    },
+    {
+        "ID": 496,
+        "nome": "COALHO PEPSINA LIQUIDA COALA 200ML",
+        "preco": 7.0,
+        "img": "img/496.jpg"
+    },
+    {
+        "ID": 452,
+        "nome": "COALHO PEPSINA PO BUFALO 50G",
+        "preco": 6.0,
+        "img": "img/452.jpg"
+    },
+    {
+        "ID": 1373,
+        "nome": "COBALZAN 100ML",
+        "preco": 40.25,
+        "img": "img/1373.jpg"
+    },
+    {
+        "ID": 2558,
+        "nome": "COCCIDEX AARAO - 10 CAPSULAS",
+        "preco": 28.82,
+        "img": "img/2558.jpg"
+    },
+    {
+        "ID": 29,
+        "nome": "COCHO NA VERTICAL PARA SAL",
+        "preco": 555.0,
+        "img": "img/29.jpg"
+    },
+    {
+        "ID": 532,
+        "nome": "COEQUI PLUS 25KG",
+        "preco": 180.0,
+        "img": "img/532.jpg"
+    },
+    {
+        "ID": 2167,
+        "nome": "COLA ADESIVO INST 20G 793 TEK BOND",
+        "preco": 12.0,
+        "img": "img/2167.jpg"
+    },
+    {
+        "ID": 2012,
+        "nome": "COLAR ELIZABETANO BRANCO N10",
+        "preco": 55.0,
+        "img": "img/2012.jpg"
+    },
+    {
+        "ID": 2005,
+        "nome": "COLAR ELIZABETANO BRANCO N3",
+        "preco": 35.0,
+        "img": "img/2005.jpg"
+    },
+    {
+        "ID": 1285,
+        "nome": "COLHEDOR FRUTAS",
+        "preco": 34.0,
+        "img": "img/1285.jpg"
+    },
+    {
+        "ID": 2792,
+        "nome": "COLHER DE PEDREIRO",
+        "preco": 35.0,
+        "img": "img/2792.jpg"
+    },
+    {
+        "ID": 231,
+        "nome": "COLOSSO 25ML",
+        "preco": 7.5,
+        "img": "img/231.jpg"
+    },
+    {
+        "ID": 232,
+        "nome": "COLOSSO OF POUR-ON 1L",
+        "preco": 55.0,
+        "img": "img/232.jpg"
+    },
+    {
+        "ID": 1682,
+        "nome": "COLOSSO POUR ON 5000ML",
+        "preco": 275.0,
+        "img": "img/1682.jpg"
+    },
+    {
+        "ID": 3150,
+        "nome": "COMEDOURO AVES CALHA PLAST 30CM",
+        "preco": 10.9,
+        "img": "img/3150.jpg"
+    },
+    {
+        "ID": 2520,
+        "nome": "COMEDOURO PLAST AVICOLA 05L 12 FUROS",
+        "preco": 23.0,
+        "img": "img/2520.jpg"
+    },
+    {
+        "ID": 1538,
+        "nome": "COMEDOURO TUB ZINC 03KG PET SOLUTION",
+        "preco": 32.0,
+        "img": "img/1538.jpg"
+    },
+    {
+        "ID": 171,
+        "nome": "COMEDOURO TUB ZINC 05KG PET SOLUTION",
+        "preco": 37.07,
+        "img": "img/171.jpg"
+    },
+    {
+        "ID": 1024,
+        "nome": "COMEDOURO TUB ZINC 20KG PET SOLUTION",
+        "preco": 79.1,
+        "img": "img/1024.jpg"
+    },
+    {
+        "ID": 3162,
+        "nome": "CONDROBIO 10ML",
+        "preco": 80.45,
+        "img": "img/3162.jpg"
+    },
+    {
+        "ID": 1907,
+        "nome": "CONJUNTO DE CANGALHA",
+        "preco": 195.0,
+        "img": "img/1907.jpg"
+    },
+    {
+        "ID": 3238,
+        "nome": "CORDA PET CARR 03MM OURO",
+        "preco": 0.6,
+        "img": "img/3238.jpg"
+    },
+    {
+        "ID": 1744,
+        "nome": "CORDA PET CARR 03MM VERDE COLOR",
+        "preco": 60.0,
+        "img": "img/1744.jpg"
+    },
+    {
+        "ID": 1745,
+        "nome": "CORDA PET CARR 03MM VERMELHA LISA",
+        "preco": 0.6,
+        "img": "img/1745.jpg"
+    },
+    {
+        "ID": 2450,
+        "nome": "CORDA PET CARR 04MM AZUL",
+        "preco": 0.8,
+        "img": "img/2450.jpg"
+    },
+    {
+        "ID": 3088,
+        "nome": "CORDA PET CARR 04MM COLORIDA",
+        "preco": 0.8,
+        "img": "img/3088.jpg"
+    },
+    {
+        "ID": 150,
+        "nome": "CORDA PET CARR 04MM OURO",
+        "preco": 0.8,
+        "img": "img/150.jpg"
+    },
+    {
+        "ID": 149,
+        "nome": "CORDA PET CARR 04MM PRETA",
+        "preco": 0.8,
+        "img": "img/149.jpg"
+    },
+    {
+        "ID": 152,
+        "nome": "CORDA PET CARR 06MM AMA LISA",
+        "preco": 1.3,
+        "img": "img/152.jpg"
+    },
+    {
+        "ID": 3089,
+        "nome": "CORDA PET CARR 06MM COLORIDA",
+        "preco": 1.3,
+        "img": "img/3089.jpg"
+    },
+    {
+        "ID": 1010,
+        "nome": "CORDA PET CARR 06MM VERM COL",
+        "preco": 1.3,
+        "img": "img/1010.jpg"
+    },
+    {
+        "ID": 151,
+        "nome": "CORDA PET CARR 06MM VERM LIS",
+        "preco": 1.29,
+        "img": "img/151.jpg"
+    },
+    {
+        "ID": 1471,
+        "nome": "CORDA PET CARR 08MM BRANCA",
+        "preco": 1.85,
+        "img": "img/1471.jpg"
+    },
+    {
+        "ID": 3090,
+        "nome": "CORDA PET CARR 08MM COLORIDA",
+        "preco": 1.85,
+        "img": "img/3090.jpg"
+    },
+    {
+        "ID": 153,
+        "nome": "CORDA PET CARR 08MM PRETA",
+        "preco": 1.85,
+        "img": "img/153.jpg"
+    },
+    {
+        "ID": 1826,
+        "nome": "CORDA PET CARR 08MM VERDE",
+        "preco": 1.85,
+        "img": "img/1826.jpg"
+    },
+    {
+        "ID": 154,
+        "nome": "CORDA PET CARR 08MM VERM LIS",
+        "preco": 1.87,
+        "img": "img/154.jpg"
+    },
+    {
+        "ID": 1403,
+        "nome": "CORDA PET CARR 10MM AZUL LISA",
+        "preco": 2.29,
+        "img": "img/1403.jpg"
+    },
+    {
+        "ID": 2483,
+        "nome": "CORDA PET CARR 10MM BRANCA",
+        "preco": 2.3,
+        "img": "img/2483.jpg"
+    },
+    {
+        "ID": 3091,
+        "nome": "CORDA PET CARR 10MM COLORIDA",
+        "preco": 2.3,
+        "img": "img/3091.jpg"
+    },
+    {
+        "ID": 1282,
+        "nome": "CORDA PET CARR 10MM PRETA LISA",
+        "preco": 2.3,
+        "img": "img/1282.jpg"
+    },
+    {
+        "ID": 156,
+        "nome": "CORDA PET CARR 10MM VERD COL",
+        "preco": 2.3,
+        "img": "img/156.jpg"
+    },
+    {
+        "ID": 1869,
+        "nome": "CORDA PET CARR 10MM VERMELHA LISA",
+        "preco": 2.3,
+        "img": "img/1869.jpg"
+    },
+    {
+        "ID": 157,
+        "nome": "CORDA PET CARR 12MM AZUL COL",
+        "preco": 2.89,
+        "img": "img/157.jpg"
+    },
+    {
+        "ID": 1917,
+        "nome": "CORDA PET CARR 12MM OURO",
+        "preco": 2.9,
+        "img": "img/1917.jpg"
+    },
+    {
+        "ID": 1011,
+        "nome": "CORDA PET CARR 12MM PTA LIS",
+        "preco": 2.9,
+        "img": "img/1011.jpg"
+    },
+    {
+        "ID": 1192,
+        "nome": "CORDA PET CARR 14MM OURO",
+        "preco": 4.3,
+        "img": "img/1192.jpg"
+    },
+    {
+        "ID": 2286,
+        "nome": "CORDA PET CHATA CAR 16MM AZUL",
+        "preco": 2.08,
+        "img": "img/2286.jpg"
+    },
+    {
+        "ID": 159,
+        "nome": "CORDA PET CHATA CAR 16MM PTA",
+        "preco": 2.03,
+        "img": "img/159.jpg"
+    },
+    {
+        "ID": 160,
+        "nome": "CORDA PET CHATA CAR 16MM VDC",
+        "preco": 2.1,
+        "img": "img/160.jpg"
+    },
+    {
+        "ID": 831,
+        "nome": "CORDA PET CHATA CAR 16MM VERMEL COL",
+        "preco": 2.1,
+        "img": "img/831.jpg"
+    },
+    {
+        "ID": 1661,
+        "nome": "CORDA PET CHATA CAR 16MM VERMEL LIS",
+        "preco": 2.09,
+        "img": "img/1661.jpg"
+    },
+    {
+        "ID": 2547,
+        "nome": "CORDEIRO NOBRE OVINOS E CAPRINOS 1 KG SAL MINERAL",
+        "preco": 11.71,
+        "img": "img/2547.jpg"
+    },
+    {
+        "ID": 2474,
+        "nome": "CORRENTE ZINC P/CAES N06",
+        "preco": 8.79,
+        "img": "img/2474.jpg"
+    },
+    {
+        "ID": 2614,
+        "nome": "CORRENTE ZINCADA 5,0MM 13/64",
+        "preco": 14.84,
+        "img": "img/2614.jpg"
+    },
+    {
+        "ID": 793,
+        "nome": "CORTA CURSO 50ML OF",
+        "preco": 49.0,
+        "img": "img/793.jpg"
+    },
+    {
+        "ID": 2449,
+        "nome": "CORTISOL 20 COM",
+        "preco": 11.5,
+        "img": "img/2449.jpg"
+    },
+    {
+        "ID": 278,
+        "nome": "CORTVET 2.0MG 10ML UCB",
+        "preco": 8.8,
+        "img": "img/278.jpg"
+    },
+    {
+        "ID": 721,
+        "nome": "CORTVET 2.0MG 50ML UCB",
+        "preco": 31.74,
+        "img": "img/721.jpg"
+    },
+    {
+        "ID": 141,
+        "nome": "COURO LIMPO 25 ML",
+        "preco": 8.22,
+        "img": "img/141.jpg"
+    },
+    {
+        "ID": 142,
+        "nome": "COURO LIMPO POUR ON",
+        "preco": 64.67,
+        "img": "img/142.jpg"
+    },
+    {
+        "ID": 2731,
+        "nome": "CRAVO E-3 COBRA",
+        "preco": 0.46,
+        "img": "img/2731.jpg"
+    },
+    {
+        "ID": 1616,
+        "nome": "CRAVO E-3 CORONA",
+        "preco": 0.39,
+        "img": "img/1616.jpg"
+    },
+    {
+        "ID": 3242,
+        "nome": "CRAVO E-4 COBRA",
+        "preco": 0.45,
+        "img": "img/3242.jpg"
+    },
+    {
+        "ID": 2732,
+        "nome": "CRAVO RH 4 1/2 COBRA",
+        "preco": 0.47,
+        "img": "img/2732.jpg"
+    },
+    {
+        "ID": 2227,
+        "nome": "CREATINE ATP 500G",
+        "preco": 158.0,
+        "img": "img/2227.jpg"
+    },
+    {
+        "ID": 1182,
+        "nome": "CREOLINA VIDRO 50ML PEARSON",
+        "preco": 15.0,
+        "img": "img/1182.jpg"
+    },
+    {
+        "ID": 411,
+        "nome": "CROCHE",
+        "preco": 25.96,
+        "img": "img/411.jpg"
+    },
+    {
+        "ID": 807,
+        "nome": "CURSO FYNN 30GR",
+        "preco": 15.0,
+        "img": "img/807.jpg"
+    },
+    {
+        "ID": 1226,
+        "nome": "CYPERBIO PLUS 25 ML",
+        "preco": 5.62,
+        "img": "img/1226.jpg"
+    },
+    {
+        "ID": 928,
+        "nome": "CYPERMIL POUR ON 1L OUROFINO",
+        "preco": 30.6,
+        "img": "img/928.jpg"
+    },
+    {
+        "ID": 606,
+        "nome": "D-500 DIPIRONA INJ 50ML",
+        "preco": 28.72,
+        "img": "img/606.jpg"
+    },
+    {
+        "ID": 1824,
+        "nome": "DECTOMAX 250ML",
+        "preco": 161.77,
+        "img": "img/1824.jpg"
+    },
+    {
+        "ID": 620,
+        "nome": "DECTOMAX 500ML",
+        "preco": 312.83,
+        "img": "img/620.jpg"
+    },
+    {
+        "ID": 106,
+        "nome": "DECTOMAX 50ML",
+        "preco": 36.06,
+        "img": "img/106.jpg"
+    },
+    {
+        "ID": 2522,
+        "nome": "DEFENZA 100 MG 4,5 A 10KG",
+        "preco": 73.42,
+        "img": "img/2522.jpg"
+    },
+    {
+        "ID": 2523,
+        "nome": "DEFENZA 200 MG 10 A 20 KG",
+        "preco": 87.0,
+        "img": "img/2523.jpg"
+    },
+    {
+        "ID": 2524,
+        "nome": "DEFENZA 400 MG 20 A 40KG",
+        "preco": 98.67,
+        "img": "img/2524.jpg"
+    },
+    {
+        "ID": 2525,
+        "nome": "DEFENZA 45 MG 2 A 4,5KG",
+        "preco": 65.0,
+        "img": "img/2525.jpg"
+    },
+    {
+        "ID": 1301,
+        "nome": "DESCORNADOR SERVI RETO DE FERRO COM CAVA",
+        "preco": 44.0,
+        "img": "img/1301.jpg"
+    },
+    {
+        "ID": 477,
+        "nome": "DESMAMADOR BEZERRO INJESUL",
+        "preco": 4.0,
+        "img": "img/477.jpg"
+    },
+    {
+        "ID": 955,
+        "nome": "DEXAFORCE FR 10ML",
+        "preco": 33.0,
+        "img": "img/955.jpg"
+    },
+    {
+        "ID": 2197,
+        "nome": "DEXAMETASONA CALBOS 100 ML",
+        "preco": 20.0,
+        "img": "img/2197.jpg"
+    },
+    {
+        "ID": 2182,
+        "nome": "DEXAMETASONA CALBOS 200 ML",
+        "preco": 32.75,
+        "img": "img/2182.jpg"
+    },
+    {
+        "ID": 2192,
+        "nome": "DEXAMETASONA CALBOS 50 ML",
+        "preco": 14.0,
+        "img": "img/2192.jpg"
+    },
+    {
+        "ID": 1994,
+        "nome": "DEXIUM INJETAVEL 10 ML",
+        "preco": 10.93,
+        "img": "img/1994.jpg"
+    },
+    {
+        "ID": 1725,
+        "nome": "DEXIUM INJETAVEL 50 ML",
+        "preco": 29.3,
+        "img": "img/1725.jpg"
+    },
+    {
+        "ID": 281,
+        "nome": "DICLOFENACO 50ML J.A",
+        "preco": 30.0,
+        "img": "img/281.jpg"
+    },
+    {
+        "ID": 378,
+        "nome": "DICLOFENACO SYNTEC 5% 50ML",
+        "preco": 17.0,
+        "img": "img/378.jpg"
+    },
+    {
+        "ID": 1031,
+        "nome": "DIFLY S3 1KG CHAMPION",
+        "preco": 135.75,
+        "img": "img/1031.jpg"
+    },
+    {
+        "ID": 1712,
+        "nome": "DISCO CORTE INOX 4.1",
+        "preco": 3.95,
+        "img": "img/1712.jpg"
+    },
+    {
+        "ID": 1713,
+        "nome": "DISCO CORTE INOX 7X1",
+        "preco": 6.89,
+        "img": "img/1713.jpg"
+    },
+    {
+        "ID": 2168,
+        "nome": "DISCO LAMINA SERRA CIRCULAR 24D",
+        "preco": 18.0,
+        "img": "img/2168.jpg"
+    },
+    {
+        "ID": 767,
+        "nome": "DOBRADICA PORTEIRA C.00",
+        "preco": 12.74,
+        "img": "img/767.jpg"
+    },
+    {
+        "ID": 768,
+        "nome": "DOBRADICA PORTEIRA C.01",
+        "preco": 21.97,
+        "img": "img/768.jpg"
+    },
+    {
+        "ID": 769,
+        "nome": "DOBRADICA PORTEIRA C.02",
+        "preco": 25.0,
+        "img": "img/769.jpg"
+    },
+    {
+        "ID": 770,
+        "nome": "DOBRADICA PORTEIRA C.03",
+        "preco": 37.0,
+        "img": "img/770.jpg"
+    },
+    {
+        "ID": 771,
+        "nome": "DOBRADICA PORTEIRA C.04",
+        "preco": 45.0,
+        "img": "img/771.jpg"
+    },
+    {
+        "ID": 772,
+        "nome": "DOBRADICA PORTEIRA C.06",
+        "preco": 80.0,
+        "img": "img/772.jpg"
+    },
+    {
+        "ID": 1339,
+        "nome": "DOMINIUM DOG ADULTO 15KG",
+        "preco": 79.6,
+        "img": "img/1339.jpg"
+    },
+    {
+        "ID": 1338,
+        "nome": "DOMINIUM DOG ADULTO 25KG",
+        "preco": 154.76,
+        "img": "img/1338.jpg"
+    },
+    {
+        "ID": 1599,
+        "nome": "DOMINIUM FILHOTE PREMIUM 15KG",
+        "preco": 124.62,
+        "img": "img/1599.jpg"
+    },
+    {
+        "ID": 1815,
+        "nome": "DORAEQUI PLUS 7G",
+        "preco": 40.09,
+        "img": "img/1815.jpg"
+    },
+    {
+        "ID": 2681,
+        "nome": "DORAMEC 500ML INJ FA",
+        "preco": 230.33,
+        "img": "img/2681.jpg"
+    },
+    {
+        "ID": 2534,
+        "nome": "DORNIL DIPIRONA INJ 50ML",
+        "preco": 16.02,
+        "img": "img/2534.jpg"
+    },
+    {
+        "ID": 2786,
+        "nome": "DOSECAL 500ML",
+        "preco": 28.5,
+        "img": "img/2786.jpg"
+    },
+    {
+        "ID": 3034,
+        "nome": "DOXITABS DIPY 100MG BIOVET",
+        "preco": 30.0,
+        "img": "img/3034.jpg"
+    },
+    {
+        "ID": 3035,
+        "nome": "DOXITABS DIPY 200MG BIOVET",
+        "preco": 42.0,
+        "img": "img/3035.jpg"
+    },
+    {
+        "ID": 3207,
+        "nome": "DOXITABS DIPY 50MG BIOVET",
+        "preco": 27.0,
+        "img": "img/3207.jpg"
+    },
+    {
+        "ID": 780,
+        "nome": "ECTONIL 20 ML",
+        "preco": 3.44,
+        "img": "img/780.jpg"
+    },
+    {
+        "ID": 1315,
+        "nome": "ECTONIL POUR-ON 1L",
+        "preco": 32.59,
+        "img": "img/1315.jpg"
+    },
+    {
+        "ID": 781,
+        "nome": "ECTONIL PULVERIZACAO 1 L",
+        "preco": 68.0,
+        "img": "img/781.jpg"
+    },
+    {
+        "ID": 618,
+        "nome": "EFFIPRO POUR-ON 1L",
+        "preco": 135.0,
+        "img": "img/618.jpg"
+    },
+    {
+        "ID": 357,
+        "nome": "ELETROEQUI EQUI GEL 100GR",
+        "preco": 49.88,
+        "img": "img/357.jpg"
+    },
+    {
+        "ID": 2912,
+        "nome": "ENDOGARD 10 KG C/6 COMP",
+        "preco": 117.0,
+        "img": "img/2912.jpg"
+    },
+    {
+        "ID": 3273,
+        "nome": "ENERGECT FC 250ML",
+        "preco": 102.78,
+        "img": "img/3273.jpg"
+    },
+    {
+        "ID": 3272,
+        "nome": "ENERGECT FC 500ML",
+        "preco": 180.96,
+        "img": "img/3272.jpg"
+    },
+    {
+        "ID": 3274,
+        "nome": "ENERGECT FC 50ML",
+        "preco": 32.75,
+        "img": "img/3274.jpg"
+    },
+    {
+        "ID": 2847,
+        "nome": "ENERGIZADOR EN-1202K (ENERGIA 220V) - (EN. ACUM. 13,0",
+        "preco": 1200.0,
+        "img": "img/2847.jpg"
+    },
+    {
+        "ID": 918,
+        "nome": "ENTEREX SACHE 8G",
+        "preco": 18.0,
+        "img": "img/918.jpg"
+    },
+    {
+        "ID": 3137,
+        "nome": "ENXADA NORTE 2,5 BELLOTTO",
+        "preco": 61.5,
+        "img": "img/3137.jpg"
+    },
+    {
+        "ID": 2637,
+        "nome": "ENXADA NORTE 2,5 LBS TRAMONTINA",
+        "preco": 55.0,
+        "img": "img/2637.jpg"
+    },
+    {
+        "ID": 479,
+        "nome": "ENXADA NORTE 3,0LB TRAMONTINA",
+        "preco": 66.67,
+        "img": "img/479.jpg"
+    },
+    {
+        "ID": 2398,
+        "nome": "ENXADAO LARGO 3,0L BELLOTTO",
+        "preco": 65.0,
+        "img": "img/2398.jpg"
+    },
+    {
+        "ID": 1605,
+        "nome": "ENXOFRE PECUARIO COM CALCIO 1KG",
+        "preco": 16.0,
+        "img": "img/1605.jpg"
+    },
+    {
+        "ID": 1724,
+        "nome": "EQUI UP M.O. 80G",
+        "preco": 59.0,
+        "img": "img/1724.jpg"
+    },
+    {
+        "ID": 2089,
+        "nome": "EQUIMIX 12 MA 40 KG INTEGRAL",
+        "preco": 98.57,
+        "img": "img/2089.jpg"
+    },
+    {
+        "ID": 2206,
+        "nome": "EQUIMIX 15 MA 40 KG INTEGRAL",
+        "preco": 114.81,
+        "img": "img/2206.jpg"
+    },
+    {
+        "ID": 2093,
+        "nome": "EQUIMIX ESPORTE 40 KG INTEGRAL",
+        "preco": 112.15,
+        "img": "img/2093.jpg"
+    },
+    {
+        "ID": 2095,
+        "nome": "EQUIMIX POTROS 40 KG INTEGRAL",
+        "preco": 126.92,
+        "img": "img/2095.jpg"
+    },
+    {
+        "ID": 2090,
+        "nome": "EQUIMIX TRADICIONAL 40 KG INTEGRAL",
+        "preco": 107.27,
+        "img": "img/2090.jpg"
+    },
+    {
+        "ID": 2091,
+        "nome": "EQUIMIX VAQUEJADA 40 KG INTEGRAL",
+        "preco": 120.36,
+        "img": "img/2091.jpg"
+    },
+    {
+        "ID": 1061,
+        "nome": "EQUINO ORIG. CRIACAO JOY 40KG",
+        "preco": 99.16,
+        "img": "img/1061.jpg"
+    },
+    {
+        "ID": 1369,
+        "nome": "EQUINOS TRICLORSIL PASTA 30G VANSIL",
+        "preco": 18.27,
+        "img": "img/1369.jpg"
+    },
+    {
+        "ID": 1933,
+        "nome": "EQUINOS TRICLORSIL PO 20G VANSIL",
+        "preco": 8.24,
+        "img": "img/1933.jpg"
+    },
+    {
+        "ID": 946,
+        "nome": "EQUIPALAZONE INJ. FRS 100ML",
+        "preco": 62.83,
+        "img": "img/946.jpg"
+    },
+    {
+        "ID": 2990,
+        "nome": "EQUIPO MACROG SLIP SIMPLES DESCARPACK",
+        "preco": 2.41,
+        "img": "img/2990.jpg"
+    },
+    {
+        "ID": 2831,
+        "nome": "EQUOSTAR CASCOTONICO 200 ML INOVET",
+        "preco": 41.55,
+        "img": "img/2831.jpg"
+    },
+    {
+        "ID": 413,
+        "nome": "ESCOVA SILICONE",
+        "preco": 23.0,
+        "img": "img/413.jpg"
+    },
+    {
+        "ID": 752,
+        "nome": "ESCOVAO",
+        "preco": 22.66,
+        "img": "img/752.jpg"
+    },
+    {
+        "ID": 394,
+        "nome": "ESPORA",
+        "preco": 90.0,
+        "img": "img/394.jpg"
+    },
+    {
+        "ID": 2589,
+        "nome": "ESPORA BOA",
+        "preco": 225.0,
+        "img": "img/2589.jpg"
+    },
+    {
+        "ID": 2372,
+        "nome": "ESPORA TOP",
+        "preco": 135.0,
+        "img": "img/2372.jpg"
+    },
+    {
+        "ID": 2495,
+        "nome": "ESTIQUE EXTENSOR ELASTICO GANC FERRO MESC 2,00M",
+        "preco": 8.56,
+        "img": "img/2495.jpg"
+    },
+    {
+        "ID": 398,
+        "nome": "ESTIRANTE",
+        "preco": 7.48,
+        "img": "img/398.jpg"
+    },
+    {
+        "ID": 1222,
+        "nome": "ESTREPTOMICINA  BIOFARM 6,25 G",
+        "preco": 28.0,
+        "img": "img/1222.jpg"
+    },
+    {
+        "ID": 425,
+        "nome": "ESTRIBO ZABELE",
+        "preco": 70.0,
+        "img": "img/425.jpg"
+    },
+    {
+        "ID": 183,
+        "nome": "ESTROVENGA LEVE S/CABO",
+        "preco": 31.4,
+        "img": "img/183.jpg"
+    },
+    {
+        "ID": 2144,
+        "nome": "ETIMAG OTO CLEAN 100ML",
+        "preco": 24.0,
+        "img": "img/2144.jpg"
+    },
+    {
+        "ID": 3234,
+        "nome": "EVIGEST INJETAVEL 1ML",
+        "preco": 4.55,
+        "img": "img/3234.jpg"
+    },
+    {
+        "ID": 2477,
+        "nome": "EVOLUT CAT ATUM E SALMAO 10,1 KG",
+        "preco": 87.3,
+        "img": "img/2477.jpg"
+    },
+    {
+        "ID": 3266,
+        "nome": "EVOLUT CAT ATUM E SALMAO 25KG",
+        "preco": 196.0,
+        "img": "img/3266.jpg"
+    },
+    {
+        "ID": 3028,
+        "nome": "EVOLUT CAT CASTRADOS ATUM E SALMAO 10,1 KG",
+        "preco": 98.04,
+        "img": "img/3028.jpg"
+    },
+    {
+        "ID": 1525,
+        "nome": "EVOLUT CAT MIX 25 KG",
+        "preco": 179.33,
+        "img": "img/1525.jpg"
+    },
+    {
+        "ID": 1866,
+        "nome": "EVOLUT DOG ADULTO 10,1 KG",
+        "preco": 79.5,
+        "img": "img/1866.jpg"
+    },
+    {
+        "ID": 1524,
+        "nome": "EVOLUT DOG ADULTO 25 KG",
+        "preco": 164.55,
+        "img": "img/1524.jpg"
+    },
+    {
+        "ID": 2909,
+        "nome": "FACA DUPLO CORTE CASQUEAR JK",
+        "preco": 157.0,
+        "img": "img/2909.jpg"
+    },
+    {
+        "ID": 2109,
+        "nome": "FACA PEXEIRA CARBONO 12\"",
+        "preco": 39.5,
+        "img": "img/2109.jpg"
+    },
+    {
+        "ID": 481,
+        "nome": "FACAO CANA PATACHO 10",
+        "preco": 43.58,
+        "img": "img/481.jpg"
+    },
+    {
+        "ID": 2697,
+        "nome": "FACAO CANA PATACHO 12",
+        "preco": 52.0,
+        "img": "img/2697.jpg"
+    },
+    {
+        "ID": 929,
+        "nome": "FACAO CANA PATACHO 15",
+        "preco": 70.0,
+        "img": "img/929.jpg"
+    },
+    {
+        "ID": 3117,
+        "nome": "FACAO DE CANA CANAVIAL CABO 27 CM BELLOTTO",
+        "preco": 65.0,
+        "img": "img/3117.jpg"
+    },
+    {
+        "ID": 3118,
+        "nome": "FACAO DE MATO CACAUEIRO 10 3 LISTRAS BELLOTTO",
+        "preco": 69.82,
+        "img": "img/3118.jpg"
+    },
+    {
+        "ID": 3119,
+        "nome": "FACAO DE MATO CACAUEIRO 12 3 LISTRAS BELLOTTO",
+        "preco": 70.0,
+        "img": "img/3119.jpg"
+    },
+    {
+        "ID": 3124,
+        "nome": "FACAO DE MATO CACAUEIRO 22 3 LISTRAS BELLOTTO",
+        "preco": 87.0,
+        "img": "img/3124.jpg"
+    },
+    {
+        "ID": 482,
+        "nome": "FACAO MATO CB 12",
+        "preco": 32.25,
+        "img": "img/482.jpg"
+    },
+    {
+        "ID": 930,
+        "nome": "FACAO MATO CB 14",
+        "preco": 31.86,
+        "img": "img/930.jpg"
+    },
+    {
+        "ID": 483,
+        "nome": "FACAO MATO CB 16",
+        "preco": 34.51,
+        "img": "img/483.jpg"
+    },
+    {
+        "ID": 484,
+        "nome": "FACAO MATO CB 18",
+        "preco": 40.41,
+        "img": "img/484.jpg"
+    },
+    {
+        "ID": 2254,
+        "nome": "FACAO MATO CB TERCADO 21 DUCAMPO/ GAVILAN",
+        "preco": 79.0,
+        "img": "img/2254.jpg"
+    },
+    {
+        "ID": 1728,
+        "nome": "FACAO TERCADO TRAM",
+        "preco": 69.0,
+        "img": "img/1728.jpg"
+    },
+    {
+        "ID": 1208,
+        "nome": "FARCALCIO FOSFATADO P/ ANIM. 1KG",
+        "preco": 20.0,
+        "img": "img/1208.jpg"
+    },
+    {
+        "ID": 301,
+        "nome": "FARELO DE ALGODAO SC 50KG",
+        "preco": 117.37,
+        "img": "img/301.jpg"
+    },
+    {
+        "ID": 303,
+        "nome": "FARELO DE SOJA SC 50KG",
+        "preco": 128.56,
+        "img": "img/303.jpg"
+    },
+    {
+        "ID": 510,
+        "nome": "FARELO DE TRIGO SC 30KG",
+        "preco": 57.84,
+        "img": "img/510.jpg"
+    },
+    {
+        "ID": 579,
+        "nome": "FARINHA DE CALCIO 1KG CALBOS",
+        "preco": 12.0,
+        "img": "img/579.jpg"
+    },
+    {
+        "ID": 3199,
+        "nome": "FARINHA DE CALCIO 1KG INDUBRAS",
+        "preco": 12.5,
+        "img": "img/3199.jpg"
+    },
+    {
+        "ID": 1790,
+        "nome": "FARMACOX 100 ML",
+        "preco": 88.0,
+        "img": "img/1790.jpg"
+    },
+    {
+        "ID": 2481,
+        "nome": "FARMADOX 50% 200G",
+        "preco": 105.21,
+        "img": "img/2481.jpg"
+    },
+    {
+        "ID": 250,
+        "nome": "FARMAZOLE ORAL 250 ML 1,9% ALBENDAZOLE",
+        "preco": 22.96,
+        "img": "img/250.jpg"
+    },
+    {
+        "ID": 1716,
+        "nome": "FERDEX B12 50ML",
+        "preco": 26.0,
+        "img": "img/1716.jpg"
+    },
+    {
+        "ID": 3222,
+        "nome": "FERRADURAS BRASIL NL",
+        "preco": 41.29,
+        "img": "img/3222.jpg"
+    },
+    {
+        "ID": 3223,
+        "nome": "FERRADURAS BRASIL PFL",
+        "preco": 44.24,
+        "img": "img/3223.jpg"
+    },
+    {
+        "ID": 2730,
+        "nome": "FERRADURAS CORONA",
+        "preco": 40.31,
+        "img": "img/2730.jpg"
+    },
+    {
+        "ID": 1623,
+        "nome": "FERRADURAS LEVE/S. LEVE",
+        "preco": 46.49,
+        "img": "img/1623.jpg"
+    },
+    {
+        "ID": 1624,
+        "nome": "FERRADURAS PLUS",
+        "preco": 45.63,
+        "img": "img/1624.jpg"
+    },
+    {
+        "ID": 3160,
+        "nome": "FERRADURAS PLUS NG",
+        "preco": 44.41,
+        "img": "img/3160.jpg"
+    },
+    {
+        "ID": 782,
+        "nome": "FERRODEX 250 ML",
+        "preco": 77.83,
+        "img": "img/782.jpg"
+    },
+    {
+        "ID": 323,
+        "nome": "FERRODEX EE 50 ML",
+        "preco": 22.18,
+        "img": "img/323.jpg"
+    },
+    {
+        "ID": 797,
+        "nome": "FERRON B12 100ML CALBOS",
+        "preco": 19.0,
+        "img": "img/797.jpg"
+    },
+    {
+        "ID": 216,
+        "nome": "FERRON B12 50ML CALBOS",
+        "preco": 11.67,
+        "img": "img/216.jpg"
+    },
+    {
+        "ID": 1911,
+        "nome": "FERTILIZANTE NPK 15.15.18 SC 25 KG",
+        "preco": 114.87,
+        "img": "img/1911.jpg"
+    },
+    {
+        "ID": 1913,
+        "nome": "FERTILIZANTE UREIA AGRICOLA SC 25KG",
+        "preco": 115.69,
+        "img": "img/1913.jpg"
+    },
+    {
+        "ID": 2764,
+        "nome": "FICAM 15GRS",
+        "preco": 32.06,
+        "img": "img/2764.jpg"
+    },
+    {
+        "ID": 2836,
+        "nome": "FIO ELETROPLASTICO P/ CERCA ELETRICA 15X6 ROLO 250M V",
+        "preco": 58.0,
+        "img": "img/2836.jpg"
+    },
+    {
+        "ID": 2378,
+        "nome": "FIROCOXIB VETNIL GEL 35G",
+        "preco": 107.81,
+        "img": "img/2378.jpg"
+    },
+    {
+        "ID": 2622,
+        "nome": "FIROCOXIB VETNIL INJETAVEL 20ML",
+        "preco": 92.5,
+        "img": "img/2622.jpg"
+    },
+    {
+        "ID": 1143,
+        "nome": "FLOXICLIN 50ML",
+        "preco": 18.7,
+        "img": "img/1143.jpg"
+    },
+    {
+        "ID": 1758,
+        "nome": "FLOXICLIN COMPRIMIDO 150 MG",
+        "preco": 24.16,
+        "img": "img/1758.jpg"
+    },
+    {
+        "ID": 1757,
+        "nome": "FLOXICLIN COMPRIMIDO 50 MG",
+        "preco": 13.23,
+        "img": "img/1757.jpg"
+    },
+    {
+        "ID": 1183,
+        "nome": "FLUATAC DUO POUR ON 1L OUROFINO",
+        "preco": 192.0,
+        "img": "img/1183.jpg"
+    },
+    {
+        "ID": 884,
+        "nome": "FLUATAC DUO POUR ON 5LT OUROFINO",
+        "preco": 691.0,
+        "img": "img/884.jpg"
+    },
+    {
+        "ID": 3040,
+        "nome": "FLUIDO BIOFARM 100 ML",
+        "preco": 13.0,
+        "img": "img/3040.jpg"
+    },
+    {
+        "ID": 3041,
+        "nome": "FLUIDO BIOFARM 200 ML",
+        "preco": 22.77,
+        "img": "img/3041.jpg"
+    },
+    {
+        "ID": 263,
+        "nome": "FLUIDO IBASA 100ML",
+        "preco": 28.0,
+        "img": "img/263.jpg"
+    },
+    {
+        "ID": 237,
+        "nome": "FLUIDO IBASA 200ML",
+        "preco": 45.0,
+        "img": "img/237.jpg"
+    },
+    {
+        "ID": 2000,
+        "nome": "FLUMAX INJ 100ML FLUNIXINA",
+        "preco": 98.91,
+        "img": "img/2000.jpg"
+    },
+    {
+        "ID": 282,
+        "nome": "FLUMAX INJ 50ML FLUNIXINA",
+        "preco": 55.0,
+        "img": "img/282.jpg"
+    },
+    {
+        "ID": 2099,
+        "nome": "FLUNIXINA INJET. UCB 50ML",
+        "preco": 51.92,
+        "img": "img/2099.jpg"
+    },
+    {
+        "ID": 3133,
+        "nome": "FOICE LEVE - PARANA BELLOTTO",
+        "preco": 62.0,
+        "img": "img/3133.jpg"
+    },
+    {
+        "ID": 1261,
+        "nome": "FOICE P/CAPIM DENTADA TRAMONTINA",
+        "preco": 33.0,
+        "img": "img/1261.jpg"
+    },
+    {
+        "ID": 1046,
+        "nome": "FOICE RETA CEARA/UBERLANDIA",
+        "preco": 37.0,
+        "img": "img/1046.jpg"
+    },
+    {
+        "ID": 485,
+        "nome": "FOICE ROCADEIRA S/CB",
+        "preco": 34.58,
+        "img": "img/485.jpg"
+    },
+    {
+        "ID": 1779,
+        "nome": "FOLHA DE REDEA DE CORDA DUPLA",
+        "preco": 115.0,
+        "img": "img/1779.jpg"
+    },
+    {
+        "ID": 509,
+        "nome": "FOLHA DE REDEA DE COURO",
+        "preco": 120.0,
+        "img": "img/509.jpg"
+    },
+    {
+        "ID": 1347,
+        "nome": "FOME ZERO FZ DOG 25KG",
+        "preco": 128.75,
+        "img": "img/1347.jpg"
+    },
+    {
+        "ID": 1014,
+        "nome": "FORCADO P/CASCALHO 10D C/C",
+        "preco": 139.87,
+        "img": "img/1014.jpg"
+    },
+    {
+        "ID": 100,
+        "nome": "FORMICIDA ISCA GRANULADA 500GR",
+        "preco": 8.93,
+        "img": "img/100.jpg"
+    },
+    {
+        "ID": 99,
+        "nome": "FORMICIDA PO ROSA 200 1KG",
+        "preco": 11.83,
+        "img": "img/99.jpg"
+    },
+    {
+        "ID": 96,
+        "nome": "FORMIKELL GEL 10GR",
+        "preco": 12.0,
+        "img": "img/96.jpg"
+    },
+    {
+        "ID": 279,
+        "nome": "FORMOPED SPRAY 400ML ZOETIS",
+        "preco": 84.4,
+        "img": "img/279.jpg"
+    },
+    {
+        "ID": 2634,
+        "nome": "FORMULA NATURAL PRO CAES AD MINI/PEQ 15KG",
+        "preco": 189.25,
+        "img": "img/2634.jpg"
+    },
+    {
+        "ID": 2082,
+        "nome": "FORRO BAIXEIRO TNT SIAL 0114",
+        "preco": 30.0,
+        "img": "img/2082.jpg"
+    },
+    {
+        "ID": 410,
+        "nome": "FORRO NEOPRENE",
+        "preco": 95.0,
+        "img": "img/410.jpg"
+    },
+    {
+        "ID": 821,
+        "nome": "FORTGAL PLUS 50 ML - AGENER",
+        "preco": 57.56,
+        "img": "img/821.jpg"
+    },
+    {
+        "ID": 3231,
+        "nome": "FORTWAY CE 30ML",
+        "preco": 17.0,
+        "img": "img/3231.jpg"
+    },
+    {
+        "ID": 1997,
+        "nome": "FOS + ZN 100 ML",
+        "preco": 83.0,
+        "img": "img/1997.jpg"
+    },
+    {
+        "ID": 538,
+        "nome": "FOSBOVI 20 30KG",
+        "preco": 204.5,
+        "img": "img/538.jpg"
+    },
+    {
+        "ID": 546,
+        "nome": "FOSBOVI 30 25KG",
+        "preco": 235.23,
+        "img": "img/546.jpg"
+    },
+    {
+        "ID": 539,
+        "nome": "FOSBOVI 40 25KG",
+        "preco": 301.25,
+        "img": "img/539.jpg"
+    },
+    {
+        "ID": 1449,
+        "nome": "FOSBOVI CONFINAMENTO DDG 25KG",
+        "preco": 201.34,
+        "img": "img/1449.jpg"
+    },
+    {
+        "ID": 2642,
+        "nome": "FOSBOVI CONFINAMENTO PRIME 25KG",
+        "preco": 211.0,
+        "img": "img/2642.jpg"
+    },
+    {
+        "ID": 2643,
+        "nome": "FOSBOVI CONFINAMENTO PRIME 5.0 25KG",
+        "preco": 280.0,
+        "img": "img/2643.jpg"
+    },
+    {
+        "ID": 537,
+        "nome": "FOSBOVI NUCLEO PROTEICO 25KG",
+        "preco": 148.12,
+        "img": "img/537.jpg"
+    },
+    {
+        "ID": 530,
+        "nome": "FOSBOVI PLUS 25KG",
+        "preco": 157.4,
+        "img": "img/530.jpg"
+    },
+    {
+        "ID": 540,
+        "nome": "FOSBOVI PRONTO 30KG",
+        "preco": 132.16,
+        "img": "img/540.jpg"
+    },
+    {
+        "ID": 533,
+        "nome": "FOSBOVI REPRODUCAO 30KG",
+        "preco": 222.0,
+        "img": "img/533.jpg"
+    },
+    {
+        "ID": 545,
+        "nome": "FOSBOVI SEMICONFINAMENTO 10 NE 25KG",
+        "preco": 151.14,
+        "img": "img/545.jpg"
+    },
+    {
+        "ID": 2644,
+        "nome": "FOSBOVI SEMICONFINAMENTO PRIME N 25KG",
+        "preco": 160.03,
+        "img": "img/2644.jpg"
+    },
+    {
+        "ID": 534,
+        "nome": "FOSBOVINHO PROTEICO ADE 25KG",
+        "preco": 180.75,
+        "img": "img/534.jpg"
+    },
+    {
+        "ID": 2979,
+        "nome": "FRONTLINE SPRAY 100ML",
+        "preco": 103.0,
+        "img": "img/2979.jpg"
+    },
+    {
+        "ID": 1168,
+        "nome": "GADO LIMPO 200 ML",
+        "preco": 32.0,
+        "img": "img/1168.jpg"
+    },
+    {
+        "ID": 53,
+        "nome": "GALO DE RACA 10KG CANTO NATURAL",
+        "preco": 64.92,
+        "img": "img/53.jpg"
+    },
+    {
+        "ID": 66,
+        "nome": "GALO DE RACA PREMIUM 10KG CANTO NATURAL",
+        "preco": 74.96,
+        "img": "img/66.jpg"
+    },
+    {
+        "ID": 3280,
+        "nome": "GANAVET PLUS 50ML",
+        "preco": 52.5,
+        "img": "img/3280.jpg"
+    },
+    {
+        "ID": 1919,
+        "nome": "GARRAFAO TERMICO 5 L MARATONA INCESS BLU UN",
+        "preco": 39.89,
+        "img": "img/1919.jpg"
+    },
+    {
+        "ID": 3217,
+        "nome": "GASTROEQUI PASTA 34ML",
+        "preco": 38.5,
+        "img": "img/3217.jpg"
+    },
+    {
+        "ID": 697,
+        "nome": "GELO PAN 100G",
+        "preco": 44.0,
+        "img": "img/697.jpg"
+    },
+    {
+        "ID": 1739,
+        "nome": "GEMA MIX 1 KG",
+        "preco": 31.71,
+        "img": "img/1739.jpg"
+    },
+    {
+        "ID": 1482,
+        "nome": "GENTATEC MASTITE VACASECA VS",
+        "preco": 11.0,
+        "img": "img/1482.jpg"
+    },
+    {
+        "ID": 371,
+        "nome": "GENTOMICIN 4% INJETAVEL 100ML",
+        "preco": 29.0,
+        "img": "img/371.jpg"
+    },
+    {
+        "ID": 3169,
+        "nome": "GENTOMICIN MASTITE 250MG",
+        "preco": 6.5,
+        "img": "img/3169.jpg"
+    },
+    {
+        "ID": 1640,
+        "nome": "GLICOFARM MASTER 1 L",
+        "preco": 95.0,
+        "img": "img/1640.jpg"
+    },
+    {
+        "ID": 888,
+        "nome": "GLICOFARM PET 30 ML FARMAVET",
+        "preco": 13.0,
+        "img": "img/888.jpg"
+    },
+    {
+        "ID": 869,
+        "nome": "GLICOMAX 1 L",
+        "preco": 85.0,
+        "img": "img/869.jpg"
+    },
+    {
+        "ID": 236,
+        "nome": "GLICOPAN ENERGY 1L",
+        "preco": 148.67,
+        "img": "img/236.jpg"
+    },
+    {
+        "ID": 840,
+        "nome": "GLICOPAN ENERGY JCR 1L",
+        "preco": 197.0,
+        "img": "img/840.jpg"
+    },
+    {
+        "ID": 1783,
+        "nome": "GLICOPAN GOLD 30ML",
+        "preco": 44.38,
+        "img": "img/1783.jpg"
+    },
+    {
+        "ID": 1331,
+        "nome": "GOLDMEC 50 ML",
+        "preco": 30.0,
+        "img": "img/1331.jpg"
+    },
+    {
+        "ID": 732,
+        "nome": "GRAMPO GAL GERDAU",
+        "preco": 18.56,
+        "img": "img/732.jpg"
+    },
+    {
+        "ID": 2938,
+        "nome": "GRANEL BR4CATS CASTRADOS ARROZ E FRANGO KG",
+        "preco": 13.5,
+        "img": "img/2938.jpg"
+    },
+    {
+        "ID": 2939,
+        "nome": "GRANEL CANISTER DOG FILHOTE KG",
+        "preco": 9.49,
+        "img": "img/2939.jpg"
+    },
+    {
+        "ID": 2210,
+        "nome": "GRANEL CHANIN CASTRADO",
+        "preco": 11.58,
+        "img": "img/2210.jpg"
+    },
+    {
+        "ID": 2211,
+        "nome": "GRANEL CHANIN FILHOTE",
+        "preco": 11.0,
+        "img": "img/2211.jpg"
+    },
+    {
+        "ID": 2212,
+        "nome": "GRANEL CHANIN MIX",
+        "preco": 8.18,
+        "img": "img/2212.jpg"
+    },
+    {
+        "ID": 2213,
+        "nome": "GRANEL CHANIN MIX S/COR",
+        "preco": 8.93,
+        "img": "img/2213.jpg"
+    },
+    {
+        "ID": 2214,
+        "nome": "GRANEL CHANIN PEIXE",
+        "preco": 9.22,
+        "img": "img/2214.jpg"
+    },
+    {
+        "ID": 2941,
+        "nome": "GRANEL MAGIC PET DOG PREMIUM CARNE KG",
+        "preco": 7.0,
+        "img": "img/2941.jpg"
+    },
+    {
+        "ID": 2942,
+        "nome": "GRANEL MAGIC PET DOG PREMIUM CHIPS KG",
+        "preco": 7.0,
+        "img": "img/2942.jpg"
+    },
+    {
+        "ID": 2943,
+        "nome": "GRANEL PEDDY DOG CARNE KG",
+        "preco": 6.84,
+        "img": "img/2943.jpg"
+    },
+    {
+        "ID": 2944,
+        "nome": "GRANEL SNOW CAT SABOR PEIXE KG",
+        "preco": 8.11,
+        "img": "img/2944.jpg"
+    },
+    {
+        "ID": 2945,
+        "nome": "GRANEL SNOW CAT SABORES DO MAR KG",
+        "preco": 8.99,
+        "img": "img/2945.jpg"
+    },
+    {
+        "ID": 2215,
+        "nome": "GRANEL ZUPPY ADULTO PEQUENO PORTE",
+        "preco": 13.1,
+        "img": "img/2215.jpg"
+    },
+    {
+        "ID": 2219,
+        "nome": "GRANEL ZUPPY CAT FILHOTE FRANGO",
+        "preco": 13.5,
+        "img": "img/2219.jpg"
+    },
+    {
+        "ID": 2217,
+        "nome": "GRANEL ZUPPY FILHOTE MEDIO E GRANDE PORTE",
+        "preco": 12.5,
+        "img": "img/2217.jpg"
+    },
+    {
+        "ID": 819,
+        "nome": "GRAO INTEIRO 40KG",
+        "preco": 153.87,
+        "img": "img/819.jpg"
+    },
+    {
+        "ID": 2907,
+        "nome": "GROSA RED TANG 14\" MATTHEIS BORG",
+        "preco": 293.0,
+        "img": "img/2907.jpg"
+    },
+    {
+        "ID": 3083,
+        "nome": "HASTE ISOLADORA PREMIUM 1,5M",
+        "preco": 56.0,
+        "img": "img/3083.jpg"
+    },
+    {
+        "ID": 288,
+        "nome": "HEMOCELL 1L CALBOS",
+        "preco": 86.7,
+        "img": "img/288.jpg"
+    },
+    {
+        "ID": 1220,
+        "nome": "HEMOFARM 1 L",
+        "preco": 85.0,
+        "img": "img/1220.jpg"
+    },
+    {
+        "ID": 1144,
+        "nome": "HEMOFARM PET 30ML FARMAVET",
+        "preco": 14.5,
+        "img": "img/1144.jpg"
+    },
+    {
+        "ID": 1541,
+        "nome": "HEMOFARM PET 60ML",
+        "preco": 21.83,
+        "img": "img/1541.jpg"
+    },
+    {
+        "ID": 699,
+        "nome": "HEMOLITAN JCR 1L",
+        "preco": 324.46,
+        "img": "img/699.jpg"
+    },
+    {
+        "ID": 2548,
+        "nome": "HEMOLITAN PET 30ML",
+        "preco": 30.09,
+        "img": "img/2548.jpg"
+    },
+    {
+        "ID": 67,
+        "nome": "HEPATOX ANTITOXICO ORAL 20ML",
+        "preco": 8.59,
+        "img": "img/67.jpg"
+    },
+    {
+        "ID": 2424,
+        "nome": "HEPATOX ANTITOXICO ORAL 90ML",
+        "preco": 13.69,
+        "img": "img/2424.jpg"
+    },
+    {
+        "ID": 1696,
+        "nome": "HIDROVIT 250ML",
+        "preco": 53.79,
+        "img": "img/1696.jpg"
+    },
+    {
+        "ID": 695,
+        "nome": "HIDROVIT 50ML",
+        "preco": 27.0,
+        "img": "img/695.jpg"
+    },
+    {
+        "ID": 919,
+        "nome": "HIPERVIT 20000 MCG",
+        "preco": 37.0,
+        "img": "img/919.jpg"
+    },
+    {
+        "ID": 226,
+        "nome": "HIPOFEN PASTA ORAL",
+        "preco": 11.0,
+        "img": "img/226.jpg"
+    },
+    {
+        "ID": 329,
+        "nome": "HIPOVITA K 20 ML",
+        "preco": 14.0,
+        "img": "img/329.jpg"
+    },
+    {
+        "ID": 294,
+        "nome": "HIPRALONA ENRO ORAL 100ML",
+        "preco": 22.92,
+        "img": "img/294.jpg"
+    },
+    {
+        "ID": 293,
+        "nome": "HIPRALONA ENRO ORAL 10ML",
+        "preco": 9.0,
+        "img": "img/293.jpg"
+    },
+    {
+        "ID": 146,
+        "nome": "HORSENOX PASTA 9G",
+        "preco": 17.3,
+        "img": "img/146.jpg"
+    },
+    {
+        "ID": 2184,
+        "nome": "HP 500 1 KG",
+        "preco": 55.0,
+        "img": "img/2184.jpg"
+    },
+    {
+        "ID": 626,
+        "nome": "ICON 10PM 25G",
+        "preco": 20.0,
+        "img": "img/626.jpg"
+    },
+    {
+        "ID": 1464,
+        "nome": "IMIZOL 15ML",
+        "preco": 63.8,
+        "img": "img/1464.jpg"
+    },
+    {
+        "ID": 128,
+        "nome": "INIBIDEX CARTELA 1 ML FARMAVET",
+        "preco": 3.59,
+        "img": "img/128.jpg"
+    },
+    {
+        "ID": 2580,
+        "nome": "INSETICOM 10PM 40G INSETIMAX",
+        "preco": 8.0,
+        "img": "img/2580.jpg"
+    },
+    {
+        "ID": 2897,
+        "nome": "IODO 10% 1L VANSIL",
+        "preco": 215.78,
+        "img": "img/2897.jpg"
+    },
+    {
+        "ID": 2842,
+        "nome": "ISOLADOR TIPO W PRETO",
+        "preco": 0.77,
+        "img": "img/2842.jpg"
+    },
+    {
+        "ID": 3061,
+        "nome": "IVERMECTINA PREMIX VANSIL 33G",
+        "preco": 8.0,
+        "img": "img/3061.jpg"
+    },
+    {
+        "ID": 555,
+        "nome": "IVERMIC ADE INJ 500 ML",
+        "preco": 168.0,
+        "img": "img/555.jpg"
+    },
+    {
+        "ID": 720,
+        "nome": "IVERMIC ADE INJ 50ML",
+        "preco": 25.0,
+        "img": "img/720.jpg"
+    },
+    {
+        "ID": 889,
+        "nome": "IVERMIC ORAL 0.20% 250 ML",
+        "preco": 35.0,
+        "img": "img/889.jpg"
+    },
+    {
+        "ID": 2356,
+        "nome": "IVERMIC SUPREMME 50 ML",
+        "preco": 26.94,
+        "img": "img/2356.jpg"
+    },
+    {
+        "ID": 2001,
+        "nome": "IVERMIC SUPREMME 500 ML",
+        "preco": 264.24,
+        "img": "img/2001.jpg"
+    },
+    {
+        "ID": 557,
+        "nome": "IVERMIC T PASTA ORAL",
+        "preco": 16.0,
+        "img": "img/557.jpg"
+    },
+    {
+        "ID": 857,
+        "nome": "IVERMIN 1 ML",
+        "preco": 4.32,
+        "img": "img/857.jpg"
+    },
+    {
+        "ID": 223,
+        "nome": "IVERMIN 50ML 1,0%",
+        "preco": 12.75,
+        "img": "img/223.jpg"
+    },
+    {
+        "ID": 722,
+        "nome": "IVERMIN PASTA ORAL 6G",
+        "preco": 11.0,
+        "img": "img/722.jpg"
+    },
+    {
+        "ID": 1041,
+        "nome": "IVOMEC 1 INJ 500ML",
+        "preco": 235.0,
+        "img": "img/1041.jpg"
+    },
+    {
+        "ID": 2101,
+        "nome": "IVOMEC 1 INJ. 1L",
+        "preco": 395.0,
+        "img": "img/2101.jpg"
+    },
+    {
+        "ID": 621,
+        "nome": "IVOMEC 1 INJ. 50ML",
+        "preco": 31.56,
+        "img": "img/621.jpg"
+    },
+    {
+        "ID": 893,
+        "nome": "IVOMEC GOLD INJ. 1L",
+        "preco": 769.0,
+        "img": "img/893.jpg"
+    },
+    {
+        "ID": 622,
+        "nome": "IVOMEC GOLD INJ. 50ML",
+        "preco": 53.58,
+        "img": "img/622.jpg"
+    },
+    {
+        "ID": 1330,
+        "nome": "IVONOX 50 ML",
+        "preco": 10.0,
+        "img": "img/1330.jpg"
+    },
+    {
+        "ID": 816,
+        "nome": "IZOOT B12 INJ 50ML AGENER",
+        "preco": 107.95,
+        "img": "img/816.jpg"
+    },
+    {
+        "ID": 1969,
+        "nome": "JANTE PARA PNEU",
+        "preco": 50.0,
+        "img": "img/1969.jpg"
+    },
+    {
+        "ID": 2739,
+        "nome": "JOGO DE CINTA DE CILHA E PEITORAL",
+        "preco": 140.0,
+        "img": "img/2739.jpg"
+    },
+    {
+        "ID": 974,
+        "nome": "JOGO DE EMBOLO SERVI 50 ML AUT.",
+        "preco": 8.17,
+        "img": "img/974.jpg"
+    },
+    {
+        "ID": 2970,
+        "nome": "KERAVIT 5G",
+        "preco": 97.0,
+        "img": "img/2970.jpg"
+    },
+    {
+        "ID": 517,
+        "nome": "KITEKAT SACHE",
+        "preco": 2.8,
+        "img": "img/517.jpg"
+    },
+    {
+        "ID": 1893,
+        "nome": "K-OTHRINE 25CE 250ML",
+        "preco": 68.75,
+        "img": "img/1893.jpg"
+    },
+    {
+        "ID": 489,
+        "nome": "K-OTHRINE SC 30ML",
+        "preco": 14.91,
+        "img": "img/489.jpg"
+    },
+    {
+        "ID": 524,
+        "nome": "KROMIUM 25KG",
+        "preco": 284.36,
+        "img": "img/524.jpg"
+    },
+    {
+        "ID": 531,
+        "nome": "KROMIUM PROTEICO 25KG",
+        "preco": 199.0,
+        "img": "img/531.jpg"
+    },
+    {
+        "ID": 962,
+        "nome": "LAMINA DO BISTURI N 22",
+        "preco": 1.5,
+        "img": "img/962.jpg"
+    },
+    {
+        "ID": 430,
+        "nome": "LAVIZ MO HORSE 40GR",
+        "preco": 35.87,
+        "img": "img/430.jpg"
+    },
+    {
+        "ID": 809,
+        "nome": "LEVEDURA SECA SC 25KG",
+        "preco": 114.0,
+        "img": "img/809.jpg"
+    },
+    {
+        "ID": 3283,
+        "nome": "LIDOCOL 50ML",
+        "preco": 18.5,
+        "img": "img/3283.jpg"
+    },
+    {
+        "ID": 1602,
+        "nome": "LIDOFARM ANESTESICO 50ML",
+        "preco": 16.47,
+        "img": "img/1602.jpg"
+    },
+    {
+        "ID": 2269,
+        "nome": "LIMA ENXADA 8 200MM",
+        "preco": 26.66,
+        "img": "img/2269.jpg"
+    },
+    {
+        "ID": 2617,
+        "nome": "LINHA CORT/GRAMA 1,6MM",
+        "preco": 0.6,
+        "img": "img/2617.jpg"
+    },
+    {
+        "ID": 2229,
+        "nome": "LINHA CORT/GRAMA 2,0MM",
+        "preco": 0.75,
+        "img": "img/2229.jpg"
+    },
+    {
+        "ID": 2228,
+        "nome": "LINHA CORT/GRAMA 3,0MM",
+        "preco": 1.34,
+        "img": "img/2228.jpg"
+    },
+    {
+        "ID": 2857,
+        "nome": "LIVERTON 100 ML",
+        "preco": 30.0,
+        "img": "img/2857.jpg"
+    },
+    {
+        "ID": 514,
+        "nome": "LONA AGRO SILOTUBO 12X50",
+        "preco": 43.0,
+        "img": "img/514.jpg"
+    },
+    {
+        "ID": 176,
+        "nome": "LONA DUPLA FACE 4X100 SILOTUBO",
+        "preco": 10.0,
+        "img": "img/176.jpg"
+    },
+    {
+        "ID": 1195,
+        "nome": "LONA DUPLA FACE 6X100 SILOTUBO",
+        "preco": 12.9,
+        "img": "img/1195.jpg"
+    },
+    {
+        "ID": 733,
+        "nome": "LONA DUPLA FACE 8X100 SILOTUBO",
+        "preco": 18.19,
+        "img": "img/733.jpg"
+    },
+    {
+        "ID": 565,
+        "nome": "LONA PRETA 4X100 36 KG LONAX",
+        "preco": 5.6,
+        "img": "img/565.jpg"
+    },
+    {
+        "ID": 418,
+        "nome": "LORO COURO",
+        "preco": 90.0,
+        "img": "img/418.jpg"
+    },
+    {
+        "ID": 417,
+        "nome": "LORO NYLON",
+        "preco": 59.22,
+        "img": "img/417.jpg"
+    },
+    {
+        "ID": 1303,
+        "nome": "LUBRIFICANTE SERVI P/ SERINGA",
+        "preco": 6.0,
+        "img": "img/1303.jpg"
+    },
+    {
+        "ID": 971,
+        "nome": "LUVA CIRURGICA DESCART. EM LATEX",
+        "preco": 0.35,
+        "img": "img/971.jpg"
+    },
+    {
+        "ID": 2808,
+        "nome": "LUVA MULTIUSO G/9 1PAR VD NOBRE",
+        "preco": 6.0,
+        "img": "img/2808.jpg"
+    },
+    {
+        "ID": 2648,
+        "nome": "LUVA PIGMENTADA 4 FIOS 09 G PTA",
+        "preco": 3.14,
+        "img": "img/2648.jpg"
+    },
+    {
+        "ID": 972,
+        "nome": "LUVA PLASTICA LONGA C/ ELASTICO",
+        "preco": 1.5,
+        "img": "img/972.jpg"
+    },
+    {
+        "ID": 2797,
+        "nome": "LUVA PVC FORRADA VERDE 26CM",
+        "preco": 14.0,
+        "img": "img/2797.jpg"
+    },
+    {
+        "ID": 1025,
+        "nome": "LUVA RASPA CURTA PUNHO 7 LUVEQ",
+        "preco": 15.0,
+        "img": "img/1025.jpg"
+    },
+    {
+        "ID": 2877,
+        "nome": "MAGIC PET DOG PREMIUM CHIPS 25KG BRAZILIAN",
+        "preco": 160.66,
+        "img": "img/2877.jpg"
+    },
+    {
+        "ID": 2465,
+        "nome": "MAGNUS BIFINHO CARNE 500G",
+        "preco": 40.0,
+        "img": "img/2465.jpg"
+    },
+    {
+        "ID": 345,
+        "nome": "MAGNUS CHIPS 15KG ADIMAX",
+        "preco": 110.8,
+        "img": "img/345.jpg"
+    },
+    {
+        "ID": 1777,
+        "nome": "MAGNUS CHIPS 20KG ADIMAX",
+        "preco": 145.75,
+        "img": "img/1777.jpg"
+    },
+    {
+        "ID": 997,
+        "nome": "MAGNUS FILHOTE CARNE 10,1KG ADIMAX",
+        "preco": 96.0,
+        "img": "img/997.jpg"
+    },
+    {
+        "ID": 347,
+        "nome": "MAGNUS TODO DIA CARNE 15KG ADIMAX",
+        "preco": 110.0,
+        "img": "img/347.jpg"
+    },
+    {
+        "ID": 352,
+        "nome": "MAGNUS TODO DIA CARNE 25KG ADIMAX",
+        "preco": 187.03,
+        "img": "img/352.jpg"
+    },
+    {
+        "ID": 1891,
+        "nome": "MAGNUS TODO DIA PEQ PORTE CN/FG 10,1KG",
+        "preco": 78.0,
+        "img": "img/1891.jpg"
+    },
+    {
+        "ID": 1776,
+        "nome": "MAGNUS TODO DIA PEQ PORTE CN/FG 15KG",
+        "preco": 108.2,
+        "img": "img/1776.jpg"
+    },
+    {
+        "ID": 2579,
+        "nome": "MANDARIN PO 3 EM 1 - 1000G FIPRONIL INSETIMAX",
+        "preco": 44.03,
+        "img": "img/2579.jpg"
+    },
+    {
+        "ID": 811,
+        "nome": "MANGUEIRA JARD TRANCADA 30M",
+        "preco": 78.0,
+        "img": "img/811.jpg"
+    },
+    {
+        "ID": 1368,
+        "nome": "MANGUEIRA P/ IRRIG 15M C/ KIT CONECTOR INICIAL SANTEN",
+        "preco": 40.0,
+        "img": "img/1368.jpg"
+    },
+    {
+        "ID": 1885,
+        "nome": "MANGUEIRA TRANCADA 1/2'",
+        "preco": 6.2,
+        "img": "img/1885.jpg"
+    },
+    {
+        "ID": 554,
+        "nome": "MARFIX HIDROXIDO DE SODIO 200ML BRAVET",
+        "preco": 59.0,
+        "img": "img/554.jpg"
+    },
+    {
+        "ID": 449,
+        "nome": "MARTELO CABO DE MADEIRA",
+        "preco": 49.45,
+        "img": "img/449.jpg"
+    },
+    {
+        "ID": 3116,
+        "nome": "MARTELO UNHA FORJADO 29MM BELLOTTO",
+        "preco": 79.0,
+        "img": "img/3116.jpg"
+    },
+    {
+        "ID": 1677,
+        "nome": "MASTER LP 200ML",
+        "preco": 199.22,
+        "img": "img/1677.jpg"
+    },
+    {
+        "ID": 1691,
+        "nome": "MASTER LP 500ML",
+        "preco": 305.0,
+        "img": "img/1691.jpg"
+    },
+    {
+        "ID": 1690,
+        "nome": "MASTER LP 50ML",
+        "preco": 45.67,
+        "img": "img/1690.jpg"
+    },
+    {
+        "ID": 751,
+        "nome": "MASTERFOS CAPRINO 70 10KG",
+        "preco": 57.0,
+        "img": "img/751.jpg"
+    },
+    {
+        "ID": 708,
+        "nome": "MASTERFOS EQUINOS 72 10KG",
+        "preco": 61.75,
+        "img": "img/708.jpg"
+    },
+    {
+        "ID": 707,
+        "nome": "MASTERFOS OVINO 70 10KG",
+        "preco": 64.89,
+        "img": "img/707.jpg"
+    },
+    {
+        "ID": 117,
+        "nome": "MASTERFOS TURBO CROMO 5KG",
+        "preco": 57.75,
+        "img": "img/117.jpg"
+    },
+    {
+        "ID": 1674,
+        "nome": "MASTIFIN VACA SECA 10G V1 VS",
+        "preco": 13.0,
+        "img": "img/1674.jpg"
+    },
+    {
+        "ID": 492,
+        "nome": "MASTIZONE VS 10G UCBVET",
+        "preco": 7.5,
+        "img": "img/492.jpg"
+    },
+    {
+        "ID": 1008,
+        "nome": "MATA BICHEIRA AERO LEPECID 400ML",
+        "preco": 12.33,
+        "img": "img/1008.jpg"
+    },
+    {
+        "ID": 296,
+        "nome": "MATA BICHEIRA AERO ZOETIS 500ML",
+        "preco": 12.86,
+        "img": "img/296.jpg"
+    },
+    {
+        "ID": 493,
+        "nome": "MATA BICHEIRA AEROCID 200ML",
+        "preco": 14.56,
+        "img": "img/493.jpg"
+    },
+    {
+        "ID": 3218,
+        "nome": "MATA BICHEIRA AEROCID 500ML",
+        "preco": 17.5,
+        "img": "img/3218.jpg"
+    },
+    {
+        "ID": 2187,
+        "nome": "MATA BICHEIRA CALBOS AEROSOL 500 ML",
+        "preco": 13.0,
+        "img": "img/2187.jpg"
+    },
+    {
+        "ID": 1536,
+        "nome": "MATA BICHEIRA LAB 500 ML",
+        "preco": 11.8,
+        "img": "img/1536.jpg"
+    },
+    {
+        "ID": 3200,
+        "nome": "MATA BICHEIRA PRATA 500ML INDUBRAS",
+        "preco": 20.12,
+        "img": "img/3200.jpg"
+    },
+    {
+        "ID": 266,
+        "nome": "MAT-GERMS 600 ORAL 100 ML",
+        "preco": 24.9,
+        "img": "img/266.jpg"
+    },
+    {
+        "ID": 713,
+        "nome": "MAXICAN INJ 2% 50ML OF",
+        "preco": 113.7,
+        "img": "img/713.jpg"
+    },
+    {
+        "ID": 917,
+        "nome": "MELOXINEW 3% INJETAVEL 50 ML",
+        "preco": 110.0,
+        "img": "img/917.jpg"
+    },
+    {
+        "ID": 2456,
+        "nome": "MELOXINEW GEL 35G",
+        "preco": 90.08,
+        "img": "img/2456.jpg"
+    },
+    {
+        "ID": 238,
+        "nome": "MERCEPTON ANTITOXICO INJ 100ML",
+        "preco": 41.97,
+        "img": "img/238.jpg"
+    },
+    {
+        "ID": 585,
+        "nome": "MERCEPTON ORAL 020ML BRAVET PET",
+        "preco": 25.9,
+        "img": "img/585.jpg"
+    },
+    {
+        "ID": 3178,
+        "nome": "MICROTEL BOE 250 ML",
+        "preco": 63.0,
+        "img": "img/3178.jpg"
+    },
+    {
+        "ID": 305,
+        "nome": "MILHO EM GRAO SC 60KG",
+        "preco": 104.11,
+        "img": "img/305.jpg"
+    },
+    {
+        "ID": 1925,
+        "nome": "MINI ARCO DE SERRA",
+        "preco": 10.0,
+        "img": "img/1925.jpg"
+    },
+    {
+        "ID": 2503,
+        "nome": "MINOXEL PLUS 8GR",
+        "preco": 224.48,
+        "img": "img/2503.jpg"
+    },
+    {
+        "ID": 3219,
+        "nome": "MIOGUARD JCR 1L",
+        "preco": 267.5,
+        "img": "img/3219.jpg"
+    },
+    {
+        "ID": 143,
+        "nome": "MITRANOX 1000 ML",
+        "preco": 125.0,
+        "img": "img/143.jpg"
+    },
+    {
+        "ID": 1169,
+        "nome": "MO PERFORMANCE COM 2 SERINGAS 40 G",
+        "preco": 35.0,
+        "img": "img/1169.jpg"
+    },
+    {
+        "ID": 365,
+        "nome": "MO TURBO 80G",
+        "preco": 35.63,
+        "img": "img/365.jpg"
+    },
+    {
+        "ID": 2085,
+        "nome": "MOCOTO DOG ADULTO 15 KG",
+        "preco": 74.38,
+        "img": "img/2085.jpg"
+    },
+    {
+        "ID": 2094,
+        "nome": "MOCOTO DOG ADULTO 25 KG",
+        "preco": 124.82,
+        "img": "img/2094.jpg"
+    },
+    {
+        "ID": 947,
+        "nome": "MODIFICADOR ORGANICO VALLEE FRS 100 ML",
+        "preco": 17.96,
+        "img": "img/947.jpg"
+    },
+    {
+        "ID": 1202,
+        "nome": "MODIFICADOR ORGANICO VALLEE FRS 500 ML",
+        "preco": 78.98,
+        "img": "img/1202.jpg"
+    },
+    {
+        "ID": 239,
+        "nome": "MONOVIN VIT A 20ML",
+        "preco": 38.64,
+        "img": "img/239.jpg"
+    },
+    {
+        "ID": 1266,
+        "nome": "MONOVIN VIT B12 20ML",
+        "preco": 42.17,
+        "img": "img/1266.jpg"
+    },
+    {
+        "ID": 3032,
+        "nome": "MONOVIN VIT C 20ML",
+        "preco": 22.0,
+        "img": "img/3032.jpg"
+    },
+    {
+        "ID": 800,
+        "nome": "MONOVIN VIT E 20ML",
+        "preco": 34.0,
+        "img": "img/800.jpg"
+    },
+    {
+        "ID": 1007,
+        "nome": "MONOVIN VIT K 20ML",
+        "preco": 20.42,
+        "img": "img/1007.jpg"
+    },
+    {
+        "ID": 3232,
+        "nome": "MOSCAWAY 10 WG 100G",
+        "preco": 69.0,
+        "img": "img/3232.jpg"
+    },
+    {
+        "ID": 913,
+        "nome": "MOXI DUO PASTA 9,6G DIPY",
+        "preco": 59.37,
+        "img": "img/913.jpg"
+    },
+    {
+        "ID": 1799,
+        "nome": "MUSTANG 5 KG",
+        "preco": 42.89,
+        "img": "img/1799.jpg"
+    },
+    {
+        "ID": 2460,
+        "nome": "NATU VERMIFUGO PLUS 1650MG C/2 COMPR VETBRAS PET",
+        "preco": 14.1,
+        "img": "img/2460.jpg"
+    },
+    {
+        "ID": 2459,
+        "nome": "NATU VERMIFUGO PLUS 660MG VETBRAS PET",
+        "preco": 13.53,
+        "img": "img/2459.jpg"
+    },
+    {
+        "ID": 2541,
+        "nome": "NATUVERM C/ 4 COMP",
+        "preco": 6.94,
+        "img": "img/2541.jpg"
+    },
+    {
+        "ID": 863,
+        "nome": "NEOCIDINE H 1,75 L",
+        "preco": 94.0,
+        "img": "img/863.jpg"
+    },
+    {
+        "ID": 2492,
+        "nome": "NEONATUS LAVIZOO 43G",
+        "preco": 51.0,
+        "img": "img/2492.jpg"
+    },
+    {
+        "ID": 3172,
+        "nome": "NEOPET GATOS 0,32 ML",
+        "preco": 21.8,
+        "img": "img/3172.jpg"
+    },
+    {
+        "ID": 1899,
+        "nome": "NEXGARD 2-4 KG (P) CP",
+        "preco": 64.0,
+        "img": "img/1899.jpg"
+    },
+    {
+        "ID": 2974,
+        "nome": "NEXGARD SPECTRA 0,50GR (PP) X1",
+        "preco": 50.91,
+        "img": "img/2974.jpg"
+    },
+    {
+        "ID": 2975,
+        "nome": "NEXGARD SPECTRA 1,00GR (P) X1",
+        "preco": 63.33,
+        "img": "img/2975.jpg"
+    },
+    {
+        "ID": 2976,
+        "nome": "NEXGARD SPECTRA 2,00GR (M) X1",
+        "preco": 63.37,
+        "img": "img/2976.jpg"
+    },
+    {
+        "ID": 2977,
+        "nome": "NEXGARD SPECTRA 4,00GR (G) X1",
+        "preco": 74.73,
+        "img": "img/2977.jpg"
+    },
+    {
+        "ID": 2978,
+        "nome": "NEXGARD SPECTRA 8,00GR (GG) X1",
+        "preco": 93.09,
+        "img": "img/2978.jpg"
+    },
+    {
+        "ID": 1959,
+        "nome": "NUTRIFOS CAMPO 1 KG",
+        "preco": 10.0,
+        "img": "img/1959.jpg"
+    },
+    {
+        "ID": 2811,
+        "nome": "NUTRIFULL APETITE BOOST EQUI 34ML",
+        "preco": 40.2,
+        "img": "img/2811.jpg"
+    },
+    {
+        "ID": 2392,
+        "nome": "NUTRIGULA CAES FILHOTES CORDEIROS 15 KG",
+        "preco": 142.0,
+        "img": "img/2392.jpg"
+    },
+    {
+        "ID": 3029,
+        "nome": "NUTRIGULA DOG ADULTO CORDEIRO 20KG",
+        "preco": 161.67,
+        "img": "img/3029.jpg"
+    },
+    {
+        "ID": 284,
+        "nome": "OLEO CANFORADO 20ML",
+        "preco": 11.58,
+        "img": "img/284.jpg"
+    },
+    {
+        "ID": 806,
+        "nome": "OLEO DE COCO 900ML",
+        "preco": 34.0,
+        "img": "img/806.jpg"
+    },
+    {
+        "ID": 1810,
+        "nome": "OLEO DE MOCOTO",
+        "preco": 38.0,
+        "img": "img/1810.jpg"
+    },
+    {
+        "ID": 842,
+        "nome": "OPEN SEA CAT SUPER MIX 10.1KG",
+        "preco": 69.25,
+        "img": "img/842.jpg"
+    },
+    {
+        "ID": 841,
+        "nome": "OPEN SEA DOG ADULTO CORDEIRO 25KG",
+        "preco": 165.0,
+        "img": "img/841.jpg"
+    },
+    {
+        "ID": 2036,
+        "nome": "OPTIMUM SACHE",
+        "preco": 3.5,
+        "img": "img/2036.jpg"
+    },
+    {
+        "ID": 700,
+        "nome": "ORGANEW 1KG",
+        "preco": 75.64,
+        "img": "img/700.jpg"
+    },
+    {
+        "ID": 2432,
+        "nome": "ORGANEW PET 100G",
+        "preco": 31.91,
+        "img": "img/2432.jpg"
+    },
+    {
+        "ID": 2409,
+        "nome": "ORIGENS ADULTO PIT BULL/ROTTW 15KG",
+        "preco": 184.0,
+        "img": "img/2409.jpg"
+    },
+    {
+        "ID": 2142,
+        "nome": "ORIGENS CLASS ADULTO CARNE/FRANGO 15KG",
+        "preco": 129.87,
+        "img": "img/2142.jpg"
+    },
+    {
+        "ID": 2711,
+        "nome": "OTOVET 20 ML BIOFARM",
+        "preco": 31.0,
+        "img": "img/2711.jpg"
+    },
+    {
+        "ID": 535,
+        "nome": "OVINOFOS 25KG",
+        "preco": 235.0,
+        "img": "img/535.jpg"
+    },
+    {
+        "ID": 3252,
+        "nome": "OVO MAIS FORTE 1KG",
+        "preco": 7.97,
+        "img": "img/3252.jpg"
+    },
+    {
+        "ID": 1122,
+        "nome": "OXITETRA VILAVET 50 ML",
+        "preco": 16.94,
+        "img": "img/1122.jpg"
+    },
+    {
+        "ID": 268,
+        "nome": "OXITRAT PLUS 50 ML",
+        "preco": 30.0,
+        "img": "img/268.jpg"
+    },
+    {
+        "ID": 1012,
+        "nome": "PA DE BICO C/CABO 71CM",
+        "preco": 40.19,
+        "img": "img/1012.jpg"
+    },
+    {
+        "ID": 495,
+        "nome": "PA QUADRADA N 3 C/CB",
+        "preco": 44.57,
+        "img": "img/495.jpg"
+    },
+    {
+        "ID": 1223,
+        "nome": "PANZINOL 100 ML",
+        "preco": 13.67,
+        "img": "img/1223.jpg"
+    },
+    {
+        "ID": 1119,
+        "nome": "PARTOMICINA 20ML CEVA",
+        "preco": 60.0,
+        "img": "img/1119.jpg"
+    },
+    {
+        "ID": 2854,
+        "nome": "PASTA VERME EQUEST 12,2G",
+        "preco": 60.0,
+        "img": "img/2854.jpg"
+    },
+    {
+        "ID": 2853,
+        "nome": "PASTA VERME EQUEST PRAMOX 12G",
+        "preco": 72.67,
+        "img": "img/2853.jpg"
+    },
+    {
+        "ID": 855,
+        "nome": "PATA NEGRA 1 KG",
+        "preco": 13.08,
+        "img": "img/855.jpg"
+    },
+    {
+        "ID": 2884,
+        "nome": "PEDDY CAT MIX 25KG BRAZILIAN",
+        "preco": 166.0,
+        "img": "img/2884.jpg"
+    },
+    {
+        "ID": 2885,
+        "nome": "PEDDY DOG CARNE 13KG BRAZILIAN",
+        "preco": 65.09,
+        "img": "img/2885.jpg"
+    },
+    {
+        "ID": 2882,
+        "nome": "PEDDY DOG FILHOTE 25KG BRAZILIAN",
+        "preco": 165.0,
+        "img": "img/2882.jpg"
+    },
+    {
+        "ID": 521,
+        "nome": "PEDIGREE SACHE",
+        "preco": 3.43,
+        "img": "img/521.jpg"
+    },
+    {
+        "ID": 451,
+        "nome": "PEDRA AFIAR DUPL FACE",
+        "preco": 15.5,
+        "img": "img/451.jpg"
+    },
+    {
+        "ID": 145,
+        "nome": "PEGASUS TRIO 9,6 G",
+        "preco": 63.42,
+        "img": "img/145.jpg"
+    },
+    {
+        "ID": 414,
+        "nome": "PEITORAL NEOPRENE",
+        "preco": 60.0,
+        "img": "img/414.jpg"
+    },
+    {
+        "ID": 3025,
+        "nome": "PELO CRINA E CASCO 500G LAVIZOO",
+        "preco": 118.0,
+        "img": "img/3025.jpg"
+    },
+    {
+        "ID": 870,
+        "nome": "PENCIL PRONTO 100 ML",
+        "preco": 51.69,
+        "img": "img/870.jpg"
+    },
+    {
+        "ID": 705,
+        "nome": "PENCIL PRONTO 25ML",
+        "preco": 16.0,
+        "img": "img/705.jpg"
+    },
+    {
+        "ID": 276,
+        "nome": "PENCIL PRONTO 50 ML",
+        "preco": 27.77,
+        "img": "img/276.jpg"
+    },
+    {
+        "ID": 792,
+        "nome": "PENCIVET PLUS PPU FR 30ML",
+        "preco": 33.31,
+        "img": "img/792.jpg"
+    },
+    {
+        "ID": 1203,
+        "nome": "PENCIVET PLUS PPU FR 50ML",
+        "preco": 46.53,
+        "img": "img/1203.jpg"
+    },
+    {
+        "ID": 229,
+        "nome": "PENFORT PPU 50ML",
+        "preco": 43.86,
+        "img": "img/229.jpg"
+    },
+    {
+        "ID": 2201,
+        "nome": "PENTABIOTICO 15 ML",
+        "preco": 25.0,
+        "img": "img/2201.jpg"
+    },
+    {
+        "ID": 442,
+        "nome": "PENTAKEL 50ML",
+        "preco": 42.5,
+        "img": "img/442.jpg"
+    },
+    {
+        "ID": 753,
+        "nome": "PENTE DE ACO",
+        "preco": 75.0,
+        "img": "img/753.jpg"
+    },
+    {
+        "ID": 2599,
+        "nome": "PERFORMANCE ATLETA 30KG INTEGRAL",
+        "preco": 155.0,
+        "img": "img/2599.jpg"
+    },
+    {
+        "ID": 2096,
+        "nome": "PERFORMANCE DESEMPENHO 40KG INTEGRAL",
+        "preco": 152.9,
+        "img": "img/2096.jpg"
+    },
+    {
+        "ID": 2087,
+        "nome": "PERFORMANCE EQUINO - CROMO 5 KG INTEGRAL",
+        "preco": 49.23,
+        "img": "img/2087.jpg"
+    },
+    {
+        "ID": 2086,
+        "nome": "PERFORMANCE JUNIOR POTRO 40 KG INTEGRAL",
+        "preco": 162.39,
+        "img": "img/2086.jpg"
+    },
+    {
+        "ID": 396,
+        "nome": "PERNEIRA DE LONA",
+        "preco": 141.67,
+        "img": "img/396.jpg"
+    },
+    {
+        "ID": 2738,
+        "nome": "PERNEIRA PARA MONTADOR",
+        "preco": 85.0,
+        "img": "img/2738.jpg"
+    },
+    {
+        "ID": 45,
+        "nome": "PERRUS ADULTO CARNE CHIPS 15KG",
+        "preco": 98.67,
+        "img": "img/45.jpg"
+    },
+    {
+        "ID": 244,
+        "nome": "PHENODRAL 15ML",
+        "preco": 17.3,
+        "img": "img/244.jpg"
+    },
+    {
+        "ID": 1023,
+        "nome": "PICARETA PA E PONTA 4 LBS C/CABO",
+        "preco": 99.0,
+        "img": "img/1023.jpg"
+    },
+    {
+        "ID": 432,
+        "nome": "PIRAVERME GEL ORAL 25GR",
+        "preco": 17.96,
+        "img": "img/432.jpg"
+    },
+    {
+        "ID": 959,
+        "nome": "PISTOLA DOSADORA 50 ML AUT",
+        "preco": 302.5,
+        "img": "img/959.jpg"
+    },
+    {
+        "ID": 497,
+        "nome": "PLACENCAL OCITOCINA 100ML CALBOS",
+        "preco": 12.0,
+        "img": "img/497.jpg"
+    },
+    {
+        "ID": 723,
+        "nome": "PLACENCAL OCITOCINA 200ML",
+        "preco": 16.42,
+        "img": "img/723.jpg"
+    },
+    {
+        "ID": 3229,
+        "nome": "PLATEX 40G",
+        "preco": 17.12,
+        "img": "img/3229.jpg"
+    },
+    {
+        "ID": 2628,
+        "nome": "PLUVIOMETRO ESC. 150MM",
+        "preco": 22.73,
+        "img": "img/2628.jpg"
+    },
+    {
+        "ID": 3104,
+        "nome": "PNEU COMPLETO - 3.25 X 8 X 1\" (26MM) - LINHA LEVE",
+        "preco": 56.0,
+        "img": "img/3104.jpg"
+    },
+    {
+        "ID": 2121,
+        "nome": "PODAO BANANEIRA S/CB",
+        "preco": 28.0,
+        "img": "img/2121.jpg"
+    },
+    {
+        "ID": 130,
+        "nome": "PODEROSO 25 CE 1L KELLDRIN",
+        "preco": 159.95,
+        "img": "img/130.jpg"
+    },
+    {
+        "ID": 933,
+        "nome": "PODEROSO 25 CE 300ML KELLDRIN",
+        "preco": 89.33,
+        "img": "img/933.jpg"
+    },
+    {
+        "ID": 94,
+        "nome": "PODEROSO 25CE 30ML",
+        "preco": 14.77,
+        "img": "img/94.jpg"
+    },
+    {
+        "ID": 1268,
+        "nome": "PODEROSO MOSQUICIDA DISPLAY 30G KELLDRIN",
+        "preco": 5.0,
+        "img": "img/1268.jpg"
+    },
+    {
+        "ID": 788,
+        "nome": "POLIGOLD FC FRANGO ENGORDA 20KG",
+        "preco": 179.0,
+        "img": "img/788.jpg"
+    },
+    {
+        "ID": 787,
+        "nome": "POLIGOLD FC PINTO INICIAL 20KG",
+        "preco": 178.3,
+        "img": "img/787.jpg"
+    },
+    {
+        "ID": 789,
+        "nome": "POLIGOLD POSTURA F 20KG",
+        "preco": 148.06,
+        "img": "img/789.jpg"
+    },
+    {
+        "ID": 1892,
+        "nome": "POMADA CICATRIZANTE SARALOGO 30GRS",
+        "preco": 23.0,
+        "img": "img/1892.jpg"
+    },
+    {
+        "ID": 255,
+        "nome": "POMADA GANADOL 50G",
+        "preco": 46.96,
+        "img": "img/255.jpg"
+    },
+    {
+        "ID": 1932,
+        "nome": "POMADA NGF-5 100G HERTAPE",
+        "preco": 32.0,
+        "img": "img/1932.jpg"
+    },
+    {
+        "ID": 963,
+        "nome": "PORTA BISTURI EM ABS",
+        "preco": 15.0,
+        "img": "img/963.jpg"
+    },
+    {
+        "ID": 3292,
+        "nome": "POTE DE CASTANHA DE CAJU 70G",
+        "preco": 6.96,
+        "img": "img/3292.jpg"
+    },
+    {
+        "ID": 987,
+        "nome": "POTEMIN B12 120 ML - VETBRAS",
+        "preco": 17.75,
+        "img": "img/987.jpg"
+    },
+    {
+        "ID": 2804,
+        "nome": "POTEMIN B12 1L - VETBRAS",
+        "preco": 90.0,
+        "img": "img/2804.jpg"
+    },
+    {
+        "ID": 1763,
+        "nome": "POTENAY INJ 50C 10ML ZOETIS",
+        "preco": 16.05,
+        "img": "img/1763.jpg"
+    },
+    {
+        "ID": 2749,
+        "nome": "POTENFOS 88 30KG FACHOLI",
+        "preco": 187.12,
+        "img": "img/2749.jpg"
+    },
+    {
+        "ID": 2748,
+        "nome": "POTENFOS REPRODUCAO 30KG FACHOLI",
+        "preco": 193.51,
+        "img": "img/2748.jpg"
+    },
+    {
+        "ID": 2758,
+        "nome": "POTENUCLEO ENERGETICO 25KG FACHOLI",
+        "preco": 126.59,
+        "img": "img/2758.jpg"
+    },
+    {
+        "ID": 374,
+        "nome": "PRATA MATA BICHEIRA 500ML",
+        "preco": 26.89,
+        "img": "img/374.jpg"
+    },
+    {
+        "ID": 310,
+        "nome": "PRATIGI BEZERRAS 18 40KG",
+        "preco": 125.52,
+        "img": "img/310.jpg"
+    },
+    {
+        "ID": 956,
+        "nome": "PRATIGI OVINOS CRESCIMENTO 40KG",
+        "preco": 127.1,
+        "img": "img/956.jpg"
+    },
+    {
+        "ID": 312,
+        "nome": "PRATIGI OVINOS ENGORDA 40KG",
+        "preco": 123.1,
+        "img": "img/312.jpg"
+    },
+    {
+        "ID": 885,
+        "nome": "PRATIGI OVINOS INICIAL 40KG",
+        "preco": 127.4,
+        "img": "img/885.jpg"
+    },
+    {
+        "ID": 3293,
+        "nome": "PRE INICIAL AV FORTE 40KG",
+        "preco": 180.0,
+        "img": "img/3293.jpg"
+    },
+    {
+        "ID": 2244,
+        "nome": "PRE INICIAL PREFORTE DESINTEGRADO 20KG",
+        "preco": 102.49,
+        "img": "img/2244.jpg"
+    },
+    {
+        "ID": 2205,
+        "nome": "PRE INICIAL PREFORTE DESINTEGRADO 40KG",
+        "preco": 195.41,
+        "img": "img/2205.jpg"
+    },
+    {
+        "ID": 2294,
+        "nome": "PRE INICIAL PREFORTE DESINTEGRADO 5KG",
+        "preco": 27.0,
+        "img": "img/2294.jpg"
+    },
+    {
+        "ID": 1027,
+        "nome": "PREGO POL C/CAB 15X18-1.1/2X13 BELGO",
+        "preco": 23.0,
+        "img": "img/1027.jpg"
+    },
+    {
+        "ID": 1028,
+        "nome": "PREGO POL C/CAB 18X27-2.1/2X10 BELGO",
+        "preco": 23.17,
+        "img": "img/1028.jpg"
+    },
+    {
+        "ID": 2288,
+        "nome": "PREGO POL C/CAB 19X15-1.1/4X9",
+        "preco": 23.49,
+        "img": "img/2288.jpg"
+    },
+    {
+        "ID": 1029,
+        "nome": "PREGO POL C/CAB 3X8 BELGO",
+        "preco": 23.34,
+        "img": "img/1029.jpg"
+    },
+    {
+        "ID": 1886,
+        "nome": "PREGO TARUGO  POL C/CAB 27X30 PT",
+        "preco": 33.0,
+        "img": "img/1886.jpg"
+    },
+    {
+        "ID": 1817,
+        "nome": "PRO BEZERRO 50 ML",
+        "preco": 87.0,
+        "img": "img/1817.jpg"
+    },
+    {
+        "ID": 426,
+        "nome": "PROFESSORA",
+        "preco": 130.0,
+        "img": "img/426.jpg"
+    },
+    {
+        "ID": 3284,
+        "nome": "PROLACTON 10ML",
+        "preco": 8.02,
+        "img": "img/3284.jpg"
+    },
+    {
+        "ID": 2951,
+        "nome": "PRONTOSTREP 50 ML",
+        "preco": 78.5,
+        "img": "img/2951.jpg"
+    },
+    {
+        "ID": 2163,
+        "nome": "PROTEINADO 25% ,3% 30KG M.P",
+        "preco": 90.74,
+        "img": "img/2163.jpg"
+    },
+    {
+        "ID": 2153,
+        "nome": "PROTEINADO 30% ,1% 30KG M.P",
+        "preco": 92.48,
+        "img": "img/2153.jpg"
+    },
+    {
+        "ID": 2654,
+        "nome": "PROTEINADO 35%,1% 30KG M.P",
+        "preco": 106.28,
+        "img": "img/2654.jpg"
+    },
+    {
+        "ID": 3246,
+        "nome": "PROTEINADO ADEVANCE -0,05%  DO PV 30KG M.P",
+        "preco": 94.86,
+        "img": "img/3246.jpg"
+    },
+    {
+        "ID": 2172,
+        "nome": "PROTEINADO CREEPER ADE 30KG M.P",
+        "preco": 109.26,
+        "img": "img/2172.jpg"
+    },
+    {
+        "ID": 2706,
+        "nome": "PROTEINADO REPRODUÇÃO 30KG M.P",
+        "preco": 88.5,
+        "img": "img/2706.jpg"
+    },
+    {
+        "ID": 3030,
+        "nome": "PROVENCE DOG ADULTO RACAS PEQUENAS 10,1 KG",
+        "preco": 102.5,
+        "img": "img/3030.jpg"
+    },
+    {
+        "ID": 596,
+        "nome": "PROVENCE PREMIUM NATURAL ADULTO RACA MEDIAS E GRANDES",
+        "preco": 163.08,
+        "img": "img/596.jpg"
+    },
+    {
+        "ID": 595,
+        "nome": "PROVENCE PREMIUM NATURAL FILHOTES 20KG",
+        "preco": 205.0,
+        "img": "img/595.jpg"
+    },
+    {
+        "ID": 3158,
+        "nome": "PROVENCE PRIME CAES ADULTOS CORDEIRO 20 KG",
+        "preco": 175.6,
+        "img": "img/3158.jpg"
+    },
+    {
+        "ID": 333,
+        "nome": "PROVERME 28 G",
+        "preco": 8.11,
+        "img": "img/333.jpg"
+    },
+    {
+        "ID": 3201,
+        "nome": "PROVERMIN PLUS 26G",
+        "preco": 19.52,
+        "img": "img/3201.jpg"
+    },
+    {
+        "ID": 912,
+        "nome": "PROVERMIN PO ENV 20G",
+        "preco": 5.1,
+        "img": "img/912.jpg"
+    },
+    {
+        "ID": 259,
+        "nome": "PULMODRAZIN REFORCADO 10 ML",
+        "preco": 22.0,
+        "img": "img/259.jpg"
+    },
+    {
+        "ID": 1764,
+        "nome": "PULVERIZADOR DE COMPRESSAO PREVIA 2,0L",
+        "preco": 46.8,
+        "img": "img/1764.jpg"
+    },
+    {
+        "ID": 2574,
+        "nome": "PULVERIZADOR DE COMPRESSAO PREVIA 2,0L TRAMONTINA",
+        "preco": 51.5,
+        "img": "img/2574.jpg"
+    },
+    {
+        "ID": 2573,
+        "nome": "PULVERIZADOR DE COMPRESSAO PREVIA 5L TRAMONTINA",
+        "preco": 143.33,
+        "img": "img/2573.jpg"
+    },
+    {
+        "ID": 1251,
+        "nome": "PULVERIZADOR MANUAL - LARANJA/VERDE 500ML GUARANY",
+        "preco": 10.4,
+        "img": "img/1251.jpg"
+    },
+    {
+        "ID": 2655,
+        "nome": "PULVERIZADOR MANUAL BRANCO 1,0L TRAMONTINA",
+        "preco": 17.09,
+        "img": "img/2655.jpg"
+    },
+    {
+        "ID": 1247,
+        "nome": "PULVERIZADOR VERTICAL EXPORT 370ML LARANJA GUARANY",
+        "preco": 12.0,
+        "img": "img/1247.jpg"
+    },
+    {
+        "ID": 1209,
+        "nome": "PURGANTE SALINO 500G",
+        "preco": 17.0,
+        "img": "img/1209.jpg"
+    },
+    {
+        "ID": 3230,
+        "nome": "QUARTETO 400 SC 30ML",
+        "preco": 28.36,
+        "img": "img/3230.jpg"
+    },
+    {
+        "ID": 401,
+        "nome": "RABICHO",
+        "preco": 70.0,
+        "img": "img/401.jpg"
+    },
+    {
+        "ID": 1254,
+        "nome": "RACA CAT PREMIUM SALMAO 25 KG",
+        "preco": 190.49,
+        "img": "img/1254.jpg"
+    },
+    {
+        "ID": 2539,
+        "nome": "RACA CAT SELECT SALMAO 10,1 KG",
+        "preco": 88.67,
+        "img": "img/2539.jpg"
+    },
+    {
+        "ID": 1914,
+        "nome": "RACA CAT SELECT SALMAO CASTRADO 10,1 KG",
+        "preco": 100.33,
+        "img": "img/1914.jpg"
+    },
+    {
+        "ID": 599,
+        "nome": "RACA DOG ADULTO CARNE E FIG C/BATATA 15KG",
+        "preco": 105.9,
+        "img": "img/599.jpg"
+    },
+    {
+        "ID": 598,
+        "nome": "RACA DOG ADULTO CARNE E FIG C/BATATA 25 KG",
+        "preco": 180.08,
+        "img": "img/598.jpg"
+    },
+    {
+        "ID": 903,
+        "nome": "RACA DOG ADULTO SELECT 25KG",
+        "preco": 168.55,
+        "img": "img/903.jpg"
+    },
+    {
+        "ID": 602,
+        "nome": "RACA DOG FILHOTE CARNE 15KG",
+        "preco": 126.91,
+        "img": "img/602.jpg"
+    },
+    {
+        "ID": 1255,
+        "nome": "RACA DOG FILHOTE CARNE 25 KG",
+        "preco": 199.0,
+        "img": "img/1255.jpg"
+    },
+    {
+        "ID": 3027,
+        "nome": "RACA DOG FILHOTE SELECT 15KG",
+        "preco": 124.0,
+        "img": "img/3027.jpg"
+    },
+    {
+        "ID": 2540,
+        "nome": "RACA DOG MIX 14 KG",
+        "preco": 84.22,
+        "img": "img/2540.jpg"
+    },
+    {
+        "ID": 1253,
+        "nome": "RACA DOG MIX 25 KG",
+        "preco": 156.62,
+        "img": "img/1253.jpg"
+    },
+    {
+        "ID": 2673,
+        "nome": "RACAO CONFINAMENTO SEM VOLUMOSO 2%  40KG M.P",
+        "preco": 90.52,
+        "img": "img/2673.jpg"
+    },
+    {
+        "ID": 1650,
+        "nome": "RACAO DE CODORNA 05KG",
+        "preco": 18.0,
+        "img": "img/1650.jpg"
+    },
+    {
+        "ID": 109,
+        "nome": "RACAO DE CODORNA 20KG",
+        "preco": 65.83,
+        "img": "img/109.jpg"
+    },
+    {
+        "ID": 110,
+        "nome": "RACAO DE COELHO 05KG",
+        "preco": 16.82,
+        "img": "img/110.jpg"
+    },
+    {
+        "ID": 111,
+        "nome": "RACAO DE COELHO 20KG",
+        "preco": 60.03,
+        "img": "img/111.jpg"
+    },
+    {
+        "ID": 887,
+        "nome": "RACAO DE FRANGO CRESC/ENG 05KG",
+        "preco": 17.8,
+        "img": "img/887.jpg"
+    },
+    {
+        "ID": 1062,
+        "nome": "RACAO DE FRANGO CRESC/ENG 20KG",
+        "preco": 64.57,
+        "img": "img/1062.jpg"
+    },
+    {
+        "ID": 114,
+        "nome": "RACAO DE FRANGO CRESC/ENG 40KG",
+        "preco": 110.07,
+        "img": "img/114.jpg"
+    },
+    {
+        "ID": 748,
+        "nome": "RACAO DE GALINHA POSTURA 05KG",
+        "preco": 17.08,
+        "img": "img/748.jpg"
+    },
+    {
+        "ID": 1157,
+        "nome": "RACAO DE GALINHA POSTURA 20KG",
+        "preco": 62.81,
+        "img": "img/1157.jpg"
+    },
+    {
+        "ID": 115,
+        "nome": "RACAO DE GALINHA POSTURA 40KG",
+        "preco": 113.06,
+        "img": "img/115.jpg"
+    },
+    {
+        "ID": 747,
+        "nome": "RACAO DE PINTO CRESC 05KG",
+        "preco": 17.45,
+        "img": "img/747.jpg"
+    },
+    {
+        "ID": 886,
+        "nome": "RACAO DE PINTO CRESC 20KG",
+        "preco": 64.0,
+        "img": "img/886.jpg"
+    },
+    {
+        "ID": 113,
+        "nome": "RACAO DE PINTO CRESC 40KG",
+        "preco": 119.77,
+        "img": "img/113.jpg"
+    },
+    {
+        "ID": 853,
+        "nome": "RACAO DE PINTO PRE INICIAL 05KG",
+        "preco": 22.81,
+        "img": "img/853.jpg"
+    },
+    {
+        "ID": 116,
+        "nome": "RACAO DE PINTO PRE INICIAL 20KG",
+        "preco": 78.39,
+        "img": "img/116.jpg"
+    },
+    {
+        "ID": 112,
+        "nome": "RACAO DE PINTO PRE INICIAL 40KG",
+        "preco": 155.98,
+        "img": "img/112.jpg"
+    },
+    {
+        "ID": 985,
+        "nome": "RACAO EQUINO FARELADA 12% 40KG M.P",
+        "preco": 84.74,
+        "img": "img/985.jpg"
+    },
+    {
+        "ID": 3102,
+        "nome": "RACAO FRANGO CRES/ENG 40KG M.P",
+        "preco": 101.63,
+        "img": "img/3102.jpg"
+    },
+    {
+        "ID": 2195,
+        "nome": "RACAO LACTACAO 24% 40KG M.P",
+        "preco": 98.2,
+        "img": "img/2195.jpg"
+    },
+    {
+        "ID": 1158,
+        "nome": "RACAO POSTURA 40KG M.P",
+        "preco": 94.35,
+        "img": "img/1158.jpg"
+    },
+    {
+        "ID": 2154,
+        "nome": "RACAO SEMI CONFINAMENTO 1% 40KG M.P",
+        "preco": 91.32,
+        "img": "img/2154.jpg"
+    },
+    {
+        "ID": 980,
+        "nome": "RACAO SUINO CRESCIMENTO 40KG M.P",
+        "preco": 93.7,
+        "img": "img/980.jpg"
+    },
+    {
+        "ID": 981,
+        "nome": "RACAO SUINO ENGORDA 40KG M.P",
+        "preco": 89.5,
+        "img": "img/981.jpg"
+    },
+    {
+        "ID": 1039,
+        "nome": "RASPADEIRA DE ZINCO",
+        "preco": 30.4,
+        "img": "img/1039.jpg"
+    },
+    {
+        "ID": 1353,
+        "nome": "RASPADEIRA E RODO ALUMINIO",
+        "preco": 34.96,
+        "img": "img/1353.jpg"
+    },
+    {
+        "ID": 3300,
+        "nome": "RATICIDA BLOCO SOFT BAIT TERMIMAX 200G",
+        "preco": 26.36,
+        "img": "img/3300.jpg"
+    },
+    {
+        "ID": 92,
+        "nome": "RATICIDA CEREAIS 25G",
+        "preco": 1.38,
+        "img": "img/92.jpg"
+    },
+    {
+        "ID": 3295,
+        "nome": "RATICIDA KLERAT ISCA FRESCA 200G SYNGENTA",
+        "preco": 26.41,
+        "img": "img/3295.jpg"
+    },
+    {
+        "ID": 3261,
+        "nome": "RATICIDA MAKI SOFT BAIT 200G",
+        "preco": 25.64,
+        "img": "img/3261.jpg"
+    },
+    {
+        "ID": 90,
+        "nome": "RATICIDA ROSA/QUEIJO 25GR",
+        "preco": 1.19,
+        "img": "img/90.jpg"
+    },
+    {
+        "ID": 3228,
+        "nome": "RATOWAY PO 100G",
+        "preco": 14.5,
+        "img": "img/3228.jpg"
+    },
+    {
+        "ID": 988,
+        "nome": "RC PEIXE 24 MANUTENCAO 6 A 8MM 25KG",
+        "preco": 82.38,
+        "img": "img/988.jpg"
+    },
+    {
+        "ID": 121,
+        "nome": "RC PEIXE 28 ENGORDA 6 A 8MM 25KG",
+        "preco": 87.9,
+        "img": "img/121.jpg"
+    },
+    {
+        "ID": 120,
+        "nome": "RC PEIXE 32 CRESCIMENTO 4 A 6MM 25KG",
+        "preco": 91.1,
+        "img": "img/120.jpg"
+    },
+    {
+        "ID": 119,
+        "nome": "RC PEIXE 35 JUVENIL 3 A 4MM 25KG",
+        "preco": 108.27,
+        "img": "img/119.jpg"
+    },
+    {
+        "ID": 118,
+        "nome": "RC PEIXE 40 - 1.8 A 2.3 MM ACQUA PRIME 20KG",
+        "preco": 186.71,
+        "img": "img/118.jpg"
+    },
+    {
+        "ID": 1071,
+        "nome": "RC PEIXE 45 - 1.0 A 1.3 MM ACQUA PRIME 20KG",
+        "preco": 224.67,
+        "img": "img/1071.jpg"
+    },
+    {
+        "ID": 1256,
+        "nome": "REFINAZIL 25KG",
+        "preco": 55.5,
+        "img": "img/1256.jpg"
+    },
+    {
+        "ID": 2226,
+        "nome": "REGADOR 10L",
+        "preco": 35.0,
+        "img": "img/2226.jpg"
+    },
+    {
+        "ID": 2551,
+        "nome": "RETARDOESTEROIDE 50ML CEVA",
+        "preco": 103.74,
+        "img": "img/2551.jpg"
+    },
+    {
+        "ID": 277,
+        "nome": "RIPERCOL 150-F INJ 250ML",
+        "preco": 75.0,
+        "img": "img/277.jpg"
+    },
+    {
+        "ID": 1890,
+        "nome": "RIPERCOL-L INJ 100ML",
+        "preco": 35.0,
+        "img": "img/1890.jpg"
+    },
+    {
+        "ID": 256,
+        "nome": "RIPERCOL-L INJ 250ML",
+        "preco": 48.67,
+        "img": "img/256.jpg"
+    },
+    {
+        "ID": 258,
+        "nome": "RIPERCOL-L ORAL 1L",
+        "preco": 113.94,
+        "img": "img/258.jpg"
+    },
+    {
+        "ID": 257,
+        "nome": "RIPERCOL-L ORAL 250ML",
+        "preco": 44.0,
+        "img": "img/257.jpg"
+    },
+    {
+        "ID": 1036,
+        "nome": "ROBOFORTE 250ML CEVA",
+        "preco": 197.0,
+        "img": "img/1036.jpg"
+    },
+    {
+        "ID": 2439,
+        "nome": "ROBOFORTE 500ML CEVA",
+        "preco": 390.0,
+        "img": "img/2439.jpg"
+    },
+    {
+        "ID": 2747,
+        "nome": "ROFLIN 100ML",
+        "preco": 89.0,
+        "img": "img/2747.jpg"
+    },
+    {
+        "ID": 2736,
+        "nome": "ROLO DE LINHA ENCERADA",
+        "preco": 17.0,
+        "img": "img/2736.jpg"
+    },
+    {
+        "ID": 1742,
+        "nome": "RUBRALAN 200 ML",
+        "preco": 89.33,
+        "img": "img/1742.jpg"
+    },
+    {
+        "ID": 801,
+        "nome": "RUBRALAN INJ 50ML",
+        "preco": 31.37,
+        "img": "img/801.jpg"
+    },
+    {
+        "ID": 501,
+        "nome": "SABONETE DUG S CLOREXIDINA 80G WORLD PET",
+        "preco": 8.92,
+        "img": "img/501.jpg"
+    },
+    {
+        "ID": 1514,
+        "nome": "SABONETE MATACURA ANTISSEPTICO 90GRS",
+        "preco": 8.5,
+        "img": "img/1514.jpg"
+    },
+    {
+        "ID": 290,
+        "nome": "SABONETE SARNATYL 100G",
+        "preco": 9.3,
+        "img": "img/290.jpg"
+    },
+    {
+        "ID": 706,
+        "nome": "SABOROSA DOG CARNE SC 15KG",
+        "preco": 74.63,
+        "img": "img/706.jpg"
+    },
+    {
+        "ID": 989,
+        "nome": "SABOROSA DOG CARNE SC 25KG",
+        "preco": 124.78,
+        "img": "img/989.jpg"
+    },
+    {
+        "ID": 1714,
+        "nome": "SACHO C/CB TRAMONTINA",
+        "preco": 45.0,
+        "img": "img/1714.jpg"
+    },
+    {
+        "ID": 174,
+        "nome": "SACO P/SILO 52X110CM UND",
+        "preco": 2.42,
+        "img": "img/174.jpg"
+    },
+    {
+        "ID": 1606,
+        "nome": "SAL AMARGO 500GR",
+        "preco": 10.0,
+        "img": "img/1606.jpg"
+    },
+    {
+        "ID": 2141,
+        "nome": "SAL EQUINO EQUIFOS - 10 KG INTEGRAL",
+        "preco": 65.75,
+        "img": "img/2141.jpg"
+    },
+    {
+        "ID": 122,
+        "nome": "SAL FINO 25KG",
+        "preco": 14.9,
+        "img": "img/122.jpg"
+    },
+    {
+        "ID": 123,
+        "nome": "SAL GROSSO 25KG",
+        "preco": 14.77,
+        "img": "img/123.jpg"
+    },
+    {
+        "ID": 1723,
+        "nome": "SAL NC OVINO M (40K/T) 20 KG",
+        "preco": 151.97,
+        "img": "img/1723.jpg"
+    },
+    {
+        "ID": 5,
+        "nome": "SAL NC POSTURA FAZENDA 15KG",
+        "preco": 139.0,
+        "img": "img/5.jpg"
+    },
+    {
+        "ID": 2690,
+        "nome": "SAL NC SUINO ENGORDA FAZENDA 20KG",
+        "preco": 180.0,
+        "img": "img/2690.jpg"
+    },
+    {
+        "ID": 2140,
+        "nome": "SAL OVINO OVIFOS - 65 10KG INTEGRAL",
+        "preco": 64.0,
+        "img": "img/2140.jpg"
+    },
+    {
+        "ID": 2137,
+        "nome": "SAL OVINO OVIFOS - 65 25KG INTEGRAL",
+        "preco": 162.24,
+        "img": "img/2137.jpg"
+    },
+    {
+        "ID": 10,
+        "nome": "SAL PROBEEF REPRODUCAO 30KG",
+        "preco": 178.0,
+        "img": "img/10.jpg"
+    },
+    {
+        "ID": 78,
+        "nome": "SANAGOGO 20ML",
+        "preco": 15.33,
+        "img": "img/78.jpg"
+    },
+    {
+        "ID": 131,
+        "nome": "SARNIRAN 100 ML  FARMAVET",
+        "preco": 16.83,
+        "img": "img/131.jpg"
+    },
+    {
+        "ID": 227,
+        "nome": "SEDACOL 100ML",
+        "preco": 26.0,
+        "img": "img/227.jpg"
+    },
+    {
+        "ID": 712,
+        "nome": "SEDACOL 200ML",
+        "preco": 47.0,
+        "img": "img/712.jpg"
+    },
+    {
+        "ID": 408,
+        "nome": "SELA DE CAMPO COMPLETA",
+        "preco": 650.0,
+        "img": "img/408.jpg"
+    },
+    {
+        "ID": 3159,
+        "nome": "SELFIE CAES ADULTO 14 KG",
+        "preco": 63.72,
+        "img": "img/3159.jpg"
+    },
+    {
+        "ID": 3235,
+        "nome": "SEMENTE COENTRO VERDAO 100G",
+        "preco": 9.1,
+        "img": "img/3235.jpg"
+    },
+    {
+        "ID": 561,
+        "nome": "SEMENTE COENTRO VERDAO 500G",
+        "preco": 19.49,
+        "img": "img/561.jpg"
+    },
+    {
+        "ID": 513,
+        "nome": "SEMENTE MELANCIA CRIMSON SEL PLUS 100G",
+        "preco": 51.0,
+        "img": "img/513.jpg"
+    },
+    {
+        "ID": 1240,
+        "nome": "SEMENTE MELANCIA CRIMSON SEL PLUS 50G",
+        "preco": 31.74,
+        "img": "img/1240.jpg"
+    },
+    {
+        "ID": 3180,
+        "nome": "SEMENTE MULTI",
+        "preco": 3.0,
+        "img": "img/3180.jpg"
+    },
+    {
+        "ID": 3181,
+        "nome": "SEMENTE SUPER",
+        "preco": 6.42,
+        "img": "img/3181.jpg"
+    },
+    {
+        "ID": 559,
+        "nome": "SEMENTES",
+        "preco": 1.49,
+        "img": "img/559.jpg"
+    },
+    {
+        "ID": 504,
+        "nome": "SERINGA DESCART 10ML C/ AGULHA DESCARPACK",
+        "preco": 1.5,
+        "img": "img/504.jpg"
+    },
+    {
+        "ID": 589,
+        "nome": "SERINGA DESCART 20ML C/ AGULHA DESCARPACK",
+        "preco": 2.0,
+        "img": "img/589.jpg"
+    },
+    {
+        "ID": 906,
+        "nome": "SERINGA DESCART 3ML",
+        "preco": 0.84,
+        "img": "img/906.jpg"
+    },
+    {
+        "ID": 905,
+        "nome": "SERINGA DESCART 5ML",
+        "preco": 1.0,
+        "img": "img/905.jpg"
+    },
+    {
+        "ID": 3063,
+        "nome": "SERINGA DESCART 60ML",
+        "preco": 7.0,
+        "img": "img/3063.jpg"
+    },
+    {
+        "ID": 334,
+        "nome": "SERINGA VETERINARIA 25ML",
+        "preco": 13.97,
+        "img": "img/334.jpg"
+    },
+    {
+        "ID": 2593,
+        "nome": "SHAMPOO ANTIPULGA E CARRAPATO SHAMPET VERM 500ML",
+        "preco": 11.39,
+        "img": "img/2593.jpg"
+    },
+    {
+        "ID": 1719,
+        "nome": "SHAMPOO DUG S CLOREXIDINA 500ML WORLD",
+        "preco": 22.75,
+        "img": "img/1719.jpg"
+    },
+    {
+        "ID": 93,
+        "nome": "SHAMPOO E COND 6X1 MATT PULGAS 500ML",
+        "preco": 15.98,
+        "img": "img/93.jpg"
+    },
+    {
+        "ID": 132,
+        "nome": "SHAMPOO E CONDICI CLOREXIDINA  KELLDRIN 500ML",
+        "preco": 20.0,
+        "img": "img/132.jpg"
+    },
+    {
+        "ID": 2640,
+        "nome": "SHAMPOO TRAT ANTIPULGAS PULLTRAT 500 ML CALBOS",
+        "preco": 18.17,
+        "img": "img/2640.jpg"
+    },
+    {
+        "ID": 865,
+        "nome": "SHAMPOO TRAT CITRONELA EQUINOS CALBOS 1 L",
+        "preco": 27.2,
+        "img": "img/865.jpg"
+    },
+    {
+        "ID": 866,
+        "nome": "SHAMPOO TRAT CITRONELA EQUINOS CALBOS 5 L",
+        "preco": 98.56,
+        "img": "img/866.jpg"
+    },
+    {
+        "ID": 2507,
+        "nome": "SILO DE MILHO",
+        "preco": 23.65,
+        "img": "img/2507.jpg"
+    },
+    {
+        "ID": 335,
+        "nome": "SILVERBAC PRATA 500 ML",
+        "preco": 20.32,
+        "img": "img/335.jpg"
+    },
+    {
+        "ID": 859,
+        "nome": "SINCRONIZE 2ML",
+        "preco": 27.25,
+        "img": "img/859.jpg"
+    },
+    {
+        "ID": 2881,
+        "nome": "SNOW CAT SABOR PEIXE 25KG BRAZILIAN",
+        "preco": 165.67,
+        "img": "img/2881.jpg"
+    },
+    {
+        "ID": 3055,
+        "nome": "SNOW CAT SABORES DO MAR 10,1KG BRAZILIAN",
+        "preco": 79.16,
+        "img": "img/3055.jpg"
+    },
+    {
+        "ID": 2880,
+        "nome": "SNOW CAT SABORES DO MAR 25KG BRAZILIAN",
+        "preco": 167.78,
+        "img": "img/2880.jpg"
+    },
+    {
+        "ID": 914,
+        "nome": "SORO ANTIOFIDICO LEMA 50ML",
+        "preco": 88.57,
+        "img": "img/914.jpg"
+    },
+    {
+        "ID": 267,
+        "nome": "SORO ANTITETANICO LIOFILIZADO 5ML",
+        "preco": 18.8,
+        "img": "img/267.jpg"
+    },
+    {
+        "ID": 551,
+        "nome": "SORO BIOXAN  500ML VALLEE",
+        "preco": 28.78,
+        "img": "img/551.jpg"
+    },
+    {
+        "ID": 1794,
+        "nome": "SORO RINGER C/LAC 1000ML FRESENIUS",
+        "preco": 16.37,
+        "img": "img/1794.jpg"
+    },
+    {
+        "ID": 1405,
+        "nome": "SOROFARM 500 ML",
+        "preco": 22.99,
+        "img": "img/1405.jpg"
+    },
+    {
+        "ID": 1628,
+        "nome": "SOROVITA COMPLEX 500 ML - UCB",
+        "preco": 22.78,
+        "img": "img/1628.jpg"
+    },
+    {
+        "ID": 2198,
+        "nome": "SPRAY CITRONELA 15 CALBOS 500 ML",
+        "preco": 50.0,
+        "img": "img/2198.jpg"
+    },
+    {
+        "ID": 802,
+        "nome": "STRONG PIG SMIN 1KG",
+        "preco": 15.98,
+        "img": "img/802.jpg"
+    },
+    {
+        "ID": 3253,
+        "nome": "SUÍNO MAIS FORTE 1KG",
+        "preco": 13.0,
+        "img": "img/3253.jpg"
+    },
+    {
+        "ID": 786,
+        "nome": "SUIPREMIUM CT SUINO 30KG",
+        "preco": 190.2,
+        "img": "img/786.jpg"
+    },
+    {
+        "ID": 2860,
+        "nome": "SUIPREMIUM REPRODUCAO SUINO 25KG",
+        "preco": 199.0,
+        "img": "img/2860.jpg"
+    },
+    {
+        "ID": 783,
+        "nome": "SUIVEN 50 ML",
+        "preco": 37.97,
+        "img": "img/783.jpg"
+    },
+    {
+        "ID": 2479,
+        "nome": "SULFAMICINA ORAL 1L",
+        "preco": 94.06,
+        "img": "img/2479.jpg"
+    },
+    {
+        "ID": 265,
+        "nome": "SULFAMICINA ORAL 200ML",
+        "preco": 35.18,
+        "img": "img/265.jpg"
+    },
+    {
+        "ID": 137,
+        "nome": "SUPER CALCIO REFORCADO 200 ML",
+        "preco": 20.0,
+        "img": "img/137.jpg"
+    },
+    {
+        "ID": 147,
+        "nome": "SUPREMO 3,50% 1000 ML",
+        "preco": 449.0,
+        "img": "img/147.jpg"
+    },
+    {
+        "ID": 1457,
+        "nome": "SUPREMO 3,50% 50 ML",
+        "preco": 36.5,
+        "img": "img/1457.jpg"
+    },
+    {
+        "ID": 2684,
+        "nome": "TACPLUS PULV 200 ML FR",
+        "preco": 34.0,
+        "img": "img/2684.jpg"
+    },
+    {
+        "ID": 81,
+        "nome": "TALFON TOP 100GR",
+        "preco": 4.57,
+        "img": "img/81.jpg"
+    },
+    {
+        "ID": 82,
+        "nome": "TALFON TOP 1KG",
+        "preco": 35.17,
+        "img": "img/82.jpg"
+    },
+    {
+        "ID": 1191,
+        "nome": "TAMPA PARA VASILHAME DE LEITE 30 A 50 LT",
+        "preco": 21.48,
+        "img": "img/1191.jpg"
+    },
+    {
+        "ID": 85,
+        "nome": "TANICID 200GR",
+        "preco": 25.97,
+        "img": "img/85.jpg"
+    },
+    {
+        "ID": 161,
+        "nome": "TELA HEX 2' GALINHEIRO F23 1,50X50M",
+        "preco": 304.54,
+        "img": "img/161.jpg"
+    },
+    {
+        "ID": 717,
+        "nome": "TERRA CORTRIL SPRAY 125ML",
+        "preco": 37.3,
+        "img": "img/717.jpg"
+    },
+    {
+        "ID": 506,
+        "nome": "TERRACAM SPRAY 125ML UNIAO QUIMICA",
+        "preco": 29.75,
+        "img": "img/506.jpg"
+    },
+    {
+        "ID": 1137,
+        "nome": "TERRAMAX 100 ML",
+        "preco": 41.8,
+        "img": "img/1137.jpg"
+    },
+    {
+        "ID": 240,
+        "nome": "TERRAMICINA LA 20ML ZOETIS",
+        "preco": 14.59,
+        "img": "img/240.jpg"
+    },
+    {
+        "ID": 241,
+        "nome": "TERRAMICINA LA 50ML  ZOETIS",
+        "preco": 26.8,
+        "img": "img/241.jpg"
+    },
+    {
+        "ID": 1711,
+        "nome": "TERRAMICINA MAIS 20 ML",
+        "preco": 14.0,
+        "img": "img/1711.jpg"
+    },
+    {
+        "ID": 105,
+        "nome": "TERRAMICINA PO 100G",
+        "preco": 33.95,
+        "img": "img/105.jpg"
+    },
+    {
+        "ID": 454,
+        "nome": "TESOURA PODA 08 TRAMONTINA",
+        "preco": 28.92,
+        "img": "img/454.jpg"
+    },
+    {
+        "ID": 455,
+        "nome": "TESOURA PODA CB LONG TRAMONTINA",
+        "preco": 99.0,
+        "img": "img/455.jpg"
+    },
+    {
+        "ID": 2791,
+        "nome": "TESOURA PODA PROFISSIONAL",
+        "preco": 56.0,
+        "img": "img/2791.jpg"
+    },
+    {
+        "ID": 456,
+        "nome": "TESOURA USO GERAL 08 TRAMONTINA",
+        "preco": 23.0,
+        "img": "img/456.jpg"
+    },
+    {
+        "ID": 1539,
+        "nome": "THUYA AVICOLA 20ML SIMOES",
+        "preco": 8.65,
+        "img": "img/1539.jpg"
+    },
+    {
+        "ID": 1970,
+        "nome": "THUYA AVICOLA 50ML SIMOES",
+        "preco": 10.0,
+        "img": "img/1970.jpg"
+    },
+    {
+        "ID": 507,
+        "nome": "THUYA AVICOLA 90ML NATURRICH",
+        "preco": 25.0,
+        "img": "img/507.jpg"
+    },
+    {
+        "ID": 784,
+        "nome": "TIGUVON SPOT ON 1 L",
+        "preco": 241.07,
+        "img": "img/784.jpg"
+    },
+    {
+        "ID": 875,
+        "nome": "TIGUVON SPOT ON 150ML",
+        "preco": 51.5,
+        "img": "img/875.jpg"
+    },
+    {
+        "ID": 2570,
+        "nome": "TINTA SPRAY VERMELHO 400ML",
+        "preco": 18.07,
+        "img": "img/2570.jpg"
+    },
+    {
+        "ID": 617,
+        "nome": "TOPLINE POUR-ON 1L",
+        "preco": 156.0,
+        "img": "img/617.jpg"
+    },
+    {
+        "ID": 2600,
+        "nome": "TOPLINE POUR-ON 5L",
+        "preco": 660.0,
+        "img": "img/2600.jpg"
+    },
+    {
+        "ID": 623,
+        "nome": "TOPLINE SPRAY 400ML",
+        "preco": 29.25,
+        "img": "img/623.jpg"
+    },
+    {
+        "ID": 246,
+        "nome": "TORMICINA 100 50 ML FABIANI",
+        "preco": 20.0,
+        "img": "img/246.jpg"
+    },
+    {
+        "ID": 3206,
+        "nome": "TORQUES 10' UN",
+        "preco": 41.91,
+        "img": "img/3206.jpg"
+    },
+    {
+        "ID": 1377,
+        "nome": "TORQUES CASQUEADOR INOX",
+        "preco": 175.0,
+        "img": "img/1377.jpg"
+    },
+    {
+        "ID": 2295,
+        "nome": "TRIBRISSEN SULFA INJ 50ML",
+        "preco": 58.0,
+        "img": "img/2295.jpg"
+    },
+    {
+        "ID": 2233,
+        "nome": "TRISSULFIN SULFA PO 100G",
+        "preco": 15.07,
+        "img": "img/2233.jpg"
+    },
+    {
+        "ID": 234,
+        "nome": "TRISSULFIN SULFA PO 50G",
+        "preco": 8.22,
+        "img": "img/234.jpg"
+    },
+    {
+        "ID": 2386,
+        "nome": "TUTTICANIS SELECT ADULTO 14KG",
+        "preco": 66.16,
+        "img": "img/2386.jpg"
+    },
+    {
+        "ID": 3141,
+        "nome": "TUTTICATIS GATO CASTRADO 10.1 KG",
+        "preco": 87.0,
+        "img": "img/3141.jpg"
+    },
+    {
+        "ID": 2388,
+        "nome": "TUTTICATIS MIX S/CORANTE PREMIUM 25KG",
+        "preco": 159.55,
+        "img": "img/2388.jpg"
+    },
+    {
+        "ID": 590,
+        "nome": "TYLADEN 50ML CEVA",
+        "preco": 34.47,
+        "img": "img/590.jpg"
+    },
+    {
+        "ID": 273,
+        "nome": "UBRECILIN ANTIMASTIT 100ML",
+        "preco": 55.0,
+        "img": "img/273.jpg"
+    },
+    {
+        "ID": 274,
+        "nome": "UNGUENTO 200G CHEMITEC BISN",
+        "preco": 26.98,
+        "img": "img/274.jpg"
+    },
+    {
+        "ID": 2686,
+        "nome": "UNGUENTO PLUS AER 400ML NF",
+        "preco": 39.98,
+        "img": "img/2686.jpg"
+    },
+    {
+        "ID": 3065,
+        "nome": "UREIA PECUARIA 25KG",
+        "preco": 145.28,
+        "img": "img/3065.jpg"
+    },
+    {
+        "ID": 3314,
+        "nome": "VACINA BOVILIS POLI STAR T 100ML",
+        "preco": 75.83,
+        "img": "img/3314.jpg"
+    },
+    {
+        "ID": 322,
+        "nome": "VACINA ENCEFALOGEN DS",
+        "preco": 18.0,
+        "img": "img/322.jpg"
+    },
+    {
+        "ID": 2858,
+        "nome": "VACINA EQUINO GARROTILHO 10DS 20ML LABOVET",
+        "preco": 34.39,
+        "img": "img/2858.jpg"
+    },
+    {
+        "ID": 3109,
+        "nome": "VACINA EQUINO GARROTILHO 2 ML",
+        "preco": 13.0,
+        "img": "img/3109.jpg"
+    },
+    {
+        "ID": 2745,
+        "nome": "VACINA HERPES HORSE DS",
+        "preco": 45.0,
+        "img": "img/2745.jpg"
+    },
+    {
+        "ID": 1865,
+        "nome": "VACINA LEXINGTON GOLD 3ML",
+        "preco": 94.66,
+        "img": "img/1865.jpg"
+    },
+    {
+        "ID": 716,
+        "nome": "VACINA RAIVA 25 DS RAIVACELL",
+        "preco": 71.2,
+        "img": "img/716.jpg"
+    },
+    {
+        "ID": 1401,
+        "nome": "VACINA RAIVA PET 1 DS 1 M L",
+        "preco": 15.0,
+        "img": "img/1401.jpg"
+    },
+    {
+        "ID": 2334,
+        "nome": "VACINA VAC V11 ELEVENCELL 1ML",
+        "preco": 17.78,
+        "img": "img/2334.jpg"
+    },
+    {
+        "ID": 2829,
+        "nome": "VACINA VAXXON ND 100 DS NEWCASTLE",
+        "preco": 34.15,
+        "img": "img/2829.jpg"
+    },
+    {
+        "ID": 3036,
+        "nome": "VACINA VAXXON POX P (BOUBA) 100 DS BIOVET",
+        "preco": 28.33,
+        "img": "img/3036.jpg"
+    },
+    {
+        "ID": 932,
+        "nome": "VALLEECALCIO INJ 500ML VALLEE",
+        "preco": 44.48,
+        "img": "img/932.jpg"
+    },
+    {
+        "ID": 164,
+        "nome": "VASILHAME P/LEITE 02 LT",
+        "preco": 42.75,
+        "img": "img/164.jpg"
+    },
+    {
+        "ID": 166,
+        "nome": "VASILHAME P/LEITE 10 LT",
+        "preco": 50.0,
+        "img": "img/166.jpg"
+    },
+    {
+        "ID": 168,
+        "nome": "VASILHAME P/LEITE 30 LT",
+        "preco": 170.0,
+        "img": "img/168.jpg"
+    },
+    {
+        "ID": 179,
+        "nome": "VASSOURA JARD MET 22D C/C",
+        "preco": 42.38,
+        "img": "img/179.jpg"
+    },
+    {
+        "ID": 178,
+        "nome": "VASSOURA PLAST 22D C/CB",
+        "preco": 31.75,
+        "img": "img/178.jpg"
+    },
+    {
+        "ID": 2575,
+        "nome": "VASSOURA PLAST 30D C/CB",
+        "preco": 59.33,
+        "img": "img/2575.jpg"
+    },
+    {
+        "ID": 1164,
+        "nome": "VASSOURAO DA INCAVA 40CM",
+        "preco": 35.0,
+        "img": "img/1164.jpg"
+    },
+    {
+        "ID": 79,
+        "nome": "VERMEX 20ML",
+        "preco": 15.8,
+        "img": "img/79.jpg"
+    },
+    {
+        "ID": 80,
+        "nome": "VERMEX PLUS 20ML",
+        "preco": 19.0,
+        "img": "img/80.jpg"
+    },
+    {
+        "ID": 1263,
+        "nome": "VERMISAL 1.11KG CHAMPION",
+        "preco": 120.5,
+        "img": "img/1263.jpg"
+    },
+    {
+        "ID": 911,
+        "nome": "VERRUTRAT UCB 20ML",
+        "preco": 27.14,
+        "img": "img/911.jpg"
+    },
+    {
+        "ID": 693,
+        "nome": "VETAGLOS POMADA 50G",
+        "preco": 58.0,
+        "img": "img/693.jpg"
+    },
+    {
+        "ID": 614,
+        "nome": "VETOCOC 4G SM",
+        "preco": 4.5,
+        "img": "img/614.jpg"
+    },
+    {
+        "ID": 973,
+        "nome": "VIDRO SERVI 50 ML AUT. FLAMBADO EMB",
+        "preco": 11.73,
+        "img": "img/973.jpg"
+    },
+    {
+        "ID": 1741,
+        "nome": "VITACALBOS 1 L",
+        "preco": 96.0,
+        "img": "img/1741.jpg"
+    },
+    {
+        "ID": 2193,
+        "nome": "VITACALBOS 200 ML",
+        "preco": 26.16,
+        "img": "img/2193.jpg"
+    },
+    {
+        "ID": 1740,
+        "nome": "VITACALBOS 50 ML",
+        "preco": 11.67,
+        "img": "img/1740.jpg"
+    },
+    {
+        "ID": 249,
+        "nome": "VITAGOLD 1L",
+        "preco": 144.33,
+        "img": "img/249.jpg"
+    },
+    {
+        "ID": 341,
+        "nome": "VITAGOLD 20 ML",
+        "preco": 14.65,
+        "img": "img/341.jpg"
+    },
+    {
+        "ID": 248,
+        "nome": "VITAGOLD 250 ML",
+        "preco": 62.67,
+        "img": "img/248.jpg"
+    },
+    {
+        "ID": 342,
+        "nome": "VITAGOLD 50 ML",
+        "preco": 20.77,
+        "img": "img/342.jpg"
+    },
+    {
+        "ID": 3173,
+        "nome": "WELLPET 100 MG 4,6 A 10 KG",
+        "preco": 59.91,
+        "img": "img/3173.jpg"
+    },
+    {
+        "ID": 3174,
+        "nome": "WELLPET 200 MG 10,1 A 20 KG",
+        "preco": 75.86,
+        "img": "img/3174.jpg"
+    },
+    {
+        "ID": 3175,
+        "nome": "WELLPET 400 MG 20,1 A 40 KG",
+        "preco": 87.05,
+        "img": "img/3175.jpg"
+    },
+    {
+        "ID": 3176,
+        "nome": "WELLPET 45 MG 2 A 4,5 KG",
+        "preco": 50.97,
+        "img": "img/3176.jpg"
+    },
+    {
+        "ID": 3177,
+        "nome": "WELLPET 560 MG 40,1 A 56 KG",
+        "preco": 95.0,
+        "img": "img/3177.jpg"
+    },
+    {
+        "ID": 940,
+        "nome": "WHISKAS SACHE",
+        "preco": 3.5,
+        "img": "img/940.jpg"
+    },
+    {
+        "ID": 302,
+        "nome": "XEREM FINO SC 40KG",
+        "preco": 76.88,
+        "img": "img/302.jpg"
+    },
+    {
+        "ID": 304,
+        "nome": "XEREM GROSSO SC 40KG",
+        "preco": 76.95,
+        "img": "img/304.jpg"
+    },
+    {
+        "ID": 2374,
+        "nome": "ZELOTRIL 10% INJ 50ML AGENER",
+        "preco": 23.77,
+        "img": "img/2374.jpg"
+    },
+    {
+        "ID": 823,
+        "nome": "ZELOTRIL PLUS INJ 50 ML - AGEN",
+        "preco": 38.94,
+        "img": "img/823.jpg"
+    },
+    {
+        "ID": 1663,
+        "nome": "ZELOTRIL PLUS INJ. 100ML",
+        "preco": 70.0,
+        "img": "img/1663.jpg"
+    },
+    {
+        "ID": 1404,
+        "nome": "ZOOVIT B12 10 ML",
+        "preco": 9.03,
+        "img": "img/1404.jpg"
+    },
+    {
+        "ID": 1415,
+        "nome": "ZUPPY ADULTO MEDIO E GRANDE PORTE 20KG",
+        "preco": 194.62,
+        "img": "img/1415.jpg"
+    },
+    {
+        "ID": 1904,
+        "nome": "ZUPPY ADULTO PEQUENO PORTE 10.1KG",
+        "preco": 116.53,
+        "img": "img/1904.jpg"
+    },
+    {
+        "ID": 1414,
+        "nome": "ZUPPY ADULTO PEQUENO PORTE 20KG",
+        "preco": 191.9,
+        "img": "img/1414.jpg"
+    },
+    {
+        "ID": 1337,
+        "nome": "ZUPPY ADULTO SELECTION 20KG",
+        "preco": 165.0,
+        "img": "img/1337.jpg"
+    },
+    {
+        "ID": 1832,
+        "nome": "ZUPPY CAT CASTRADO SALMAO 10,1KG",
+        "preco": 132.0,
+        "img": "img/1832.jpg"
+    },
+    {
+        "ID": 1903,
+        "nome": "ZUPPY FILHOTE MEDIO E GRANDE PORTE 10.1KG",
+        "preco": 116.0,
+        "img": "img/1903.jpg"
+    },
+    {
+        "ID": 1416,
+        "nome": "ZUPPY FILHOTE MEDIO E GRANDE PORTE 20KG",
+        "preco": 194.34,
+        "img": "img/1416.jpg"
+    },
+    {
+        "ID": 1905,
+        "nome": "ZUPPY FILHOTE PEQUENO PORTE 10.1KG",
+        "preco": 118.0,
+        "img": "img/1905.jpg"
+    },
+    {
+        "ID": 1417,
+        "nome": "ZUPPY FILHOTE PEQUENO PORTE 20KG",
+        "preco": 185.0,
+        "img": "img/1417.jpg"
+    }
+]

@@ -1,0 +1,27 @@
+[
+{
+    "ID": 1,
+    "nome": "EQUIMIX 12 MA 40KG",
+    "preco": 120.00,
+    "img": "img/1.png" 
+},
+{
+    "ID": 2,
+    "nome": "PEDIGREE SACHE",
+    "preco": 3.50,
+    "img": "img/2.png"
+},
+{
+
+    "ID": 3,
+    "nome": "ZUPPY ADULTOS PEQUENO PORTE 10.1KG",
+    "preco": 118.00,
+    "img": "img/3.png"
+},
+{
+    "ID": 4,
+    "nome": "LAVIZ MO HORSE 40GR",
+    "preco": 36.00,
+    "img": "img/4.png"
+}
+]
